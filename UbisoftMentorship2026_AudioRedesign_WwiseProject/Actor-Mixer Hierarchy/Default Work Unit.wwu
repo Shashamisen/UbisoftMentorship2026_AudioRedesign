@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{B88D6013-2C03-4889-B099-138188C3B439}" SchemaVersion="123">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{B88D6013-2C03-4889-B099-138188C3B439}" PersistMode="Standalone">
-			<ChildrenList>
-				<Folder Name="Ellen" ID="{C11B14F1-0E4E-44DA-BCD1-4BDF9D732C74}" ShortID="185970713"/>
-				<Folder Name="Enemies" ID="{60DF03A8-BE33-493E-910A-B2C12336333E}" ShortID="492636525"/>
-				<Folder Name="Environment" ID="{D33B0732-C01B-41B1-85FF-316C6F473991}" ShortID="686607204"/>
-				<Folder Name="UI" ID="{3037306B-E232-4EEC-819E-1249CC0C7B65}" ShortID="42901118"/>
-				<Folder Name="Interactibles" ID="{7B0A7895-6A22-41D9-933B-4FC0A0AA4A1E}" ShortID="574816393"/>
-			</ChildrenList>
-		</WorkUnit>
+		<WorkUnit Name="Default Work Unit" ID="{B88D6013-2C03-4889-B099-138188C3B439}" PersistMode="Standalone"/>
 	</AudioObjects>
 </WwiseDocument>
