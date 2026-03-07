@@ -3,17 +3,91 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{A0979CC4-3251-45E0-9886-A74697EADDEF}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="Test_Play" ID="{E72A63A0-D06D-4E25-BBE8-5EFAE6218AC6}">
+				<Folder Name="Environment" ID="{E4FEF9F0-C5F8-4201-92FD-E3BB2BF613C6}" ShortID="404111745">
 					<ChildrenList>
-						<Action Name="" ID="{E8014C59-8380-45CB-85DC-E5D7834D0D3C}" ShortID="661956171">
-							<ReferenceList>
-								<Reference Name="Target">
-									<ObjectRef Name="Test" ID="{AD44C3F4-AAC5-4A34-A294-368031B751A6}" WorkUnitID="{B88D6013-2C03-4889-B099-138188C3B439}"/>
-								</Reference>
-							</ReferenceList>
-						</Action>
+						<Folder Name="Ambiance" ID="{04FFEB96-204B-4B9C-8CE3-D012841F1E24}" ShortID="809835432">
+							<ChildrenList>
+								<Event Name="Jungle" ID="{5EE9073C-48B1-47CA-979B-E4447681ED5E}"/>
+								<Event Name="Cave" ID="{476F57C4-071C-4549-A07C-012AC527B2DD}"/>
+								<Event Name="Water" ID="{820A2C70-929D-4DD2-9253-1BC8925052EB}"/>
+								<Event Name="Acid" ID="{63F18B4E-D39D-4317-9CC9-1ED14AD1248E}"/>
+								<Event Name="Lava" ID="{CFDE061F-3DF2-4200-A774-146D83939321}"/>
+							</ChildrenList>
+						</Folder>
+						<Event Name="StoneDoor_Open" ID="{134B37C1-6567-41A2-BBC1-75121C13B608}"/>
 					</ChildrenList>
-				</Event>
+				</Folder>
+				<Folder Name="Interactibles" ID="{26C9701C-A92D-4DF8-B78C-AB7905563A7D}" ShortID="51784817">
+					<ChildrenList>
+						<Event Name="Chest_Open" ID="{9E83FD2B-8902-4836-B4A7-B2F527F3D886}"/>
+						<Event Name="PressurePad_Activate" ID="{D113268E-62BE-4A40-A333-0F6F82027B8B}"/>
+						<Event Name="Treasure_Collect" ID="{2C4AE9E9-74D3-49C5-9A2F-D29B2A972AC2}"/>
+						<Event Name="Crate_Break" ID="{4CE53FFB-139E-4A09-A311-2BDF9610AC21}"/>
+						<Event Name="Crystal_Activate" ID="{DEF0F433-080B-46BC-A0C9-CB986EFA1F91}"/>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Sequences" ID="{FB50E606-3EC1-4847-AEF8-709EF4F5CCE2}" ShortID="707545390"/>
+				<Folder Name="UI" ID="{34798092-80DD-4054-90AD-67106C912CD8}" ShortID="455096948">
+					<ChildrenList>
+						<Folder Name="Menus" ID="{5DF998A0-5A77-4E5D-96D6-86E720DF44A5}" ShortID="984179666">
+							<ChildrenList>
+								<Event Name="Buton_ClickPlay" ID="{03D7D1A2-A716-44D8-A736-1305EF092E3E}"/>
+								<Event Name="Button_Back" ID="{084A43F8-0C7F-4E54-BCD0-DA2AD9497BBB}"/>
+								<Event Name="Button_Click" ID="{3FF4CEAF-B7AC-40D9-8588-80C962072D9A}"/>
+								<Event Name="Button_Hover" ID="{DF93E060-06F1-4A5D-8E13-BA9B936B5B1E}"/>
+								<Event Name="Cursor_Volume" ID="{9132A0DE-0D0E-488A-889E-DE70A8032127}"/>
+								<Event Name="Pause_Off" ID="{05D4B42D-28C5-4A0C-A5EF-D7C8A168A4D2}"/>
+								<Event Name="Pause_On" ID="{07C637AD-649B-45F7-915D-1E05F71203E1}"/>
+							</ChildrenList>
+						</Folder>
+						<Event Name="Dialogue_Bubble" ID="{E5EBDD35-FBB1-4164-AFCB-27D5587DAA25}"/>
+						<Event Name="Health_Down" ID="{DAFDD800-1C3C-47AF-872A-BCBED1BF23B4}"/>
+						<Event Name="Health_Restored" ID="{B537A67B-9A8F-4E56-BF6A-7B2B26C16E7C}"/>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Characters" ID="{DB1EA651-2AB8-4C0F-BB52-3B181894C8BB}" ShortID="480279920">
+					<ChildrenList>
+						<Folder Name="Ellen" ID="{424E54D9-6EBF-4A0D-BCA9-381928A07814}" ShortID="642608424">
+							<ChildrenList>
+								<Event Name="Ellen_Footsteps" ID="{97B2E858-0F46-48EE-9551-3F4AB23B61B8}"/>
+								<Event Name="Ellen_MeleeAttack" ID="{E2ABB0B5-FAD9-4654-AFF0-58397834683F}"/>
+								<Event Name="Ellen_HitDamage" ID="{236C3DB4-D32A-420A-801C-6F642A9230DF}"/>
+								<Event Name="Ellen_Landing" ID="{82225ED6-F1B3-4CAD-9A3C-C7AD77147078}"/>
+								<Event Name="Ellen_Jumping" ID="{A61992F3-83E4-4045-89CC-8B8AE296B863}"/>
+								<Event Name="Ellen_Death" ID="{2E13CB43-D5D9-4078-8303-E591384D0562}"/>
+								<Event Name="Ellen_Revival" ID="{86B5CACA-A725-45B9-A67A-1E6C11FE066A}"/>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="Enemies" ID="{9FD4BEE0-80E5-44C4-8FF2-480CB7605D4E}" ShortID="773921313">
+							<ChildrenList>
+								<Folder Name="Chompers" ID="{A543AE10-2164-4FF2-A0F4-2DEA14EC3983}" ShortID="1008701184">
+									<ChildrenList>
+										<Event Name="Chomper_Footsteps" ID="{92C90469-2B22-47A9-BCF4-A8C848CC3FD9}"/>
+										<Event Name="Chomper_BiteAttack" ID="{11546B7A-5FCC-4996-9129-267D7632AE60}"/>
+										<Event Name="Chomper_Alert" ID="{D4D59B0D-C3BD-4017-BAFA-CE8DA7BB787E}"/>
+									</ChildrenList>
+								</Folder>
+								<Folder Name="Grenadiers" ID="{C7B4FB6A-CC7B-4A21-9C17-6479C1C5D102}" ShortID="546346164">
+									<ChildrenList>
+										<Event Name="Grenadier_Footsteps" ID="{97F96C66-094F-4BD0-B71E-4B91B1921D49}"/>
+										<Event Name="Grenadier_Hit" ID="{47EF9C0D-CA65-4E24-A74F-8A9016ADE000}"/>
+										<Event Name="Grenadier_RangeAttack" ID="{20B283B5-7415-4F94-9649-C933AAD0B2A9}"/>
+										<Event Name="Grenadier_ShieldAttack" ID="{49FBFE33-6445-4554-A790-1C1C5BCE9024}"/>
+										<Event Name="Grenadier_Alert" ID="{6621E495-6ADE-4924-B10D-CA83587B58D6}"/>
+									</ChildrenList>
+								</Folder>
+								<Folder Name="Spitters" ID="{E08E8BA3-04BB-451C-8BE8-7050EA6BCDA6}" ShortID="844097732">
+									<ChildrenList>
+										<Event Name="Spitter_Footsteps" ID="{77E9AD60-3A0E-488E-B454-A17673A19A5E}"/>
+										<Event Name="Spitter_SpitAttack" ID="{A3E6AB21-EE2D-421D-BC55-185C0514FCB0}"/>
+										<Event Name="Spitter_Alert" ID="{EB23A94C-B712-4945-B4CB-F247FAED569D}"/>
+									</ChildrenList>
+								</Folder>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="Eeldogs" ID="{7808CD82-E3C5-4C45-B156-D375D125F548}" ShortID="282846942"/>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

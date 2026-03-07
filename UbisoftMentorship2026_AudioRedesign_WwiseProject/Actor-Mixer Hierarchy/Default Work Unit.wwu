@@ -3,7 +3,7 @@
 	<AudioObjects>
 		<WorkUnit Name="Default Work Unit" ID="{B88D6013-2C03-4889-B099-138188C3B439}" PersistMode="Standalone">
 			<ChildrenList>
-				<Sound Name="Test" ID="{AD44C3F4-AAC5-4A34-A294-368031B751A6}" ShortID="74676296">
+				<ActorMixer Name="Ambiance" ID="{27225636-619C-4747-B575-68F11D61BEEC}" ShortID="175654852">
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
@@ -13,14 +13,268 @@
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<SourcePlugin Name="Sine" ID="{84168006-7270-431C-9240-013EDFA7EA4A}" ShortID="259587349" PluginName="Wwise Sine" CompanyID="0" PluginID="100">
-							<Language>SFX</Language>
-						</SourcePlugin>
+						<ActorMixer Name="Jungle" ID="{356CB9BE-3E6A-4305-A4F0-D7928397B407}" ShortID="543233818">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+								</Reference>
+							</ReferenceList>
+						</ActorMixer>
+						<ActorMixer Name="Cave" ID="{58B61736-F1D2-48E4-AF4A-D2946B1E9658}" ShortID="954412089">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+								</Reference>
+							</ReferenceList>
+						</ActorMixer>
+						<ActorMixer Name="Water" ID="{70E3095B-EE87-4A3D-BF9B-A8CC3426CFBD}" ShortID="798631275">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+								</Reference>
+							</ReferenceList>
+						</ActorMixer>
+						<ActorMixer Name="Acid" ID="{63029643-39DD-40EC-93B7-AF804678C71C}" ShortID="49346402">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+								</Reference>
+							</ReferenceList>
+						</ActorMixer>
+						<ActorMixer Name="Lava" ID="{CE2B5DFD-3495-4DA3-9449-9E4D48176463}" ShortID="667933546">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+								</Reference>
+							</ReferenceList>
+						</ActorMixer>
 					</ChildrenList>
-					<ActiveSourceList>
-						<ActiveSource Name="Sine" ID="{84168006-7270-431C-9240-013EDFA7EA4A}" Platform="Linked"/>
-					</ActiveSourceList>
-				</Sound>
+				</ActorMixer>
+				<ActorMixer Name="Interactibles" ID="{D9767A34-0DE3-48CF-9CBC-2587B093E649}" ShortID="1073201330">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+						</Reference>
+					</ReferenceList>
+				</ActorMixer>
+				<ActorMixer Name="UI" ID="{40C827D9-C60F-490C-A278-DAF4D91D6B17}" ShortID="710883671">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+						</Reference>
+					</ReferenceList>
+				</ActorMixer>
+				<ActorMixer Name="Sequences" ID="{471B2371-F251-403D-BC18-575B809AD45B}" ShortID="552883195">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+						</Reference>
+					</ReferenceList>
+				</ActorMixer>
+				<ActorMixer Name="Characters" ID="{39103B0D-B6CF-4071-BAD7-1EC4520E56AB}" ShortID="653618468">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<ActorMixer Name="Ellen" ID="{93ED533F-91B6-4D2D-9E18-D30A7464C92C}" ShortID="230918902">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<ActorMixer Name="Attacks" ID="{F66712BF-29EE-461D-8EEC-93B0E1CD34AB}" ShortID="1073483540">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<ActorMixer Name="Melee" ID="{EE0B96BE-18CE-4B74-8688-744FC27666CF}" ShortID="185426111">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+												</Reference>
+											</ReferenceList>
+										</ActorMixer>
+									</ChildrenList>
+								</ActorMixer>
+								<ActorMixer Name="Footsteps" ID="{D277863E-763C-4E03-8E8E-DBE880701DFD}" ShortID="558946326">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<ActorMixer Name="Walking" ID="{88B7E142-DECA-427A-8C31-59CF82C78DAE}" ShortID="712469775">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+												</Reference>
+											</ReferenceList>
+										</ActorMixer>
+										<ActorMixer Name="Running" ID="{B8200E38-9743-42B0-82C0-4DD061725D5E}" ShortID="147239911">
+											<ReferenceList>
+												<Reference Name="Conversion">
+													<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+												</Reference>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+												</Reference>
+											</ReferenceList>
+										</ActorMixer>
+									</ChildrenList>
+								</ActorMixer>
+								<ActorMixer Name="Jump" ID="{C44F8166-67A1-4AEA-B48D-80C63B04FAC2}" ShortID="79212553">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+										</Reference>
+									</ReferenceList>
+								</ActorMixer>
+								<ActorMixer Name="Landing" ID="{7000E6D7-49A7-415C-801E-3EE43EFDCDDA}" ShortID="966280659">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+										</Reference>
+									</ReferenceList>
+								</ActorMixer>
+								<ActorMixer Name="Hurt" ID="{5E205F61-C19A-4860-927E-3AD01DD31033}" ShortID="566959469">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+										</Reference>
+									</ReferenceList>
+								</ActorMixer>
+								<ActorMixer Name="Death" ID="{C18AF61B-DCA5-490A-A0A5-8D1150B64D95}" ShortID="456152714">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+										</Reference>
+									</ReferenceList>
+								</ActorMixer>
+							</ChildrenList>
+						</ActorMixer>
+						<ActorMixer Name="Enemies" ID="{6641CC42-B5D1-4D95-B1BC-6134DBB80223}" ShortID="424925984">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<ActorMixer Name="Chompers" ID="{1F68A00C-48D3-4ABD-9D6F-794658E2A89A}" ShortID="233942025">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+										</Reference>
+									</ReferenceList>
+								</ActorMixer>
+								<ActorMixer Name="Grenadiers" ID="{8ED7348F-30D4-4692-9AD5-A530F8C4426E}" ShortID="276717221">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+										</Reference>
+									</ReferenceList>
+								</ActorMixer>
+								<ActorMixer Name="Spitters" ID="{7829813E-1D6F-4B97-B311-B1CA50C679F6}" ShortID="450499870">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+										</Reference>
+									</ReferenceList>
+								</ActorMixer>
+							</ChildrenList>
+						</ActorMixer>
+						<ActorMixer Name="Eeldogs" ID="{9714AB48-131B-4EAF-B504-EAA670F48DD0}" ShortID="18125735">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+								</Reference>
+							</ReferenceList>
+						</ActorMixer>
+					</ChildrenList>
+				</ActorMixer>
+				<ActorMixer Name="SFX" ID="{2EA0FE02-EE16-45F6-AB51-9FB650835C09}" ShortID="899677640">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+						</Reference>
+					</ReferenceList>
+				</ActorMixer>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>
