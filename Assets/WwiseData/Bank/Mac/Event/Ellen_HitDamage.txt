@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	860938130	Ellen_HitDamage			\Default Work Unit\Characters\Ellen\Ellen_HitDamage	
+

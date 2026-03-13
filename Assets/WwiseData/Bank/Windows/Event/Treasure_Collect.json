@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "504015777",
+    "Type": "Event",
+    "GUID": "{2C4AE9E9-74D3-49C5-9A2F-D29B2A972AC2}",
+    "Language": "SFX",
+    "Hash": "{DBA7F342-36F8-02A4-11D5-05BF27AE7EA1}",
+    "ObjectPath": "Treasure_Collect",
+    "ShortName": "Treasure_Collect",
+    "Path": "Event/Treasure_Collect.bnk",
+    "Events": [
+     {
+      "Id": "504015777",
+      "Name": "Treasure_Collect",
+      "ObjectPath": "\\Events\\Default Work Unit\\UI\\Treasure_Collect",
+      "GUID": "{2C4AE9E9-74D3-49C5-9A2F-D29B2A972AC2}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{7CF7E5DC-D806-6FEC-C393-130F8CDE8E60}"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3635823591",
+    "Type": "Event",
+    "GUID": "{EB23A94C-B712-4945-B4CB-F247FAED569D}",
+    "Language": "SFX",
+    "Hash": "{D06092CB-9613-64E6-F14F-01CA61A5DC1A}",
+    "ObjectPath": "Spitter_Alert",
+    "ShortName": "Spitter_Alert",
+    "Path": "Event/Spitter_Alert.bnk",
+    "Events": [
+     {
+      "Id": "3635823591",
+      "Name": "Spitter_Alert",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Enemies\\Spitters\\Spitter_Alert",
+      "GUID": "{EB23A94C-B712-4945-B4CB-F247FAED569D}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C5FD4D9B-F90A-6344-550D-2F633B629191}"
+ }
+}

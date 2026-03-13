@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	518983254	Ellen_Jumping			\Default Work Unit\Characters\Ellen\Ellen_Jumping	
+

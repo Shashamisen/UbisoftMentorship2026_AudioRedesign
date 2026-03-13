@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2654748154",
+    "Type": "Event",
+    "GUID": "{820A2C70-929D-4DD2-9253-1BC8925052EB}",
+    "Language": "SFX",
+    "Hash": "{B0C0037E-6CC9-C4B5-7C6E-888D9E037444}",
+    "ObjectPath": "Water",
+    "ShortName": "Water",
+    "Path": "Event/Water.bnk",
+    "Events": [
+     {
+      "Id": "2654748154",
+      "Name": "Water",
+      "ObjectPath": "\\Events\\Default Work Unit\\Environment\\Ambiance\\Water",
+      "GUID": "{820A2C70-929D-4DD2-9253-1BC8925052EB}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C573EC1C-78B0-D648-52B2-31964FC906D5}"
+ }
+}

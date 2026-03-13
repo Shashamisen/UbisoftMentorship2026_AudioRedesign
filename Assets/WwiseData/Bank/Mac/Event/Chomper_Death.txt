@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	596611306	Chomper_Death			\Default Work Unit\Characters\Enemies\Chompers\Chomper_Death	
+

@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "860938130",
+    "Type": "Event",
+    "GUID": "{236C3DB4-D32A-420A-801C-6F642A9230DF}",
+    "Language": "SFX",
+    "Hash": "{58373AA2-7870-8C11-EFF1-C3B214B1661E}",
+    "ObjectPath": "Ellen_HitDamage",
+    "ShortName": "Ellen_HitDamage",
+    "Path": "Event/Ellen_HitDamage.bnk",
+    "Events": [
+     {
+      "Id": "860938130",
+      "Name": "Ellen_HitDamage",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Ellen\\Ellen_HitDamage",
+      "GUID": "{236C3DB4-D32A-420A-801C-6F642A9230DF}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B57039CE-78C0-7193-D69B-0A5867AAFCFE}"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3967028551",
+    "Type": "Event",
+    "GUID": "{05D4B42D-28C5-4A0C-A5EF-D7C8A168A4D2}",
+    "Language": "SFX",
+    "Hash": "{534813B3-3FF1-ECC2-45E2-772C2DAA9F64}",
+    "ObjectPath": "Pause_Off",
+    "ShortName": "Pause_Off",
+    "Path": "Event/Pause_Off.bnk",
+    "Events": [
+     {
+      "Id": "3967028551",
+      "Name": "Pause_Off",
+      "ObjectPath": "\\Events\\Default Work Unit\\UI\\Menus\\Pause_Off",
+      "GUID": "{05D4B42D-28C5-4A0C-A5EF-D7C8A168A4D2}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{1D77CA00-F952-369D-2E35-426CF1A2196E}"
+ }
+}

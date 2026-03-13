@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1382368627",
+    "Type": "Event",
+    "GUID": "{6621E495-6ADE-4924-B10D-CA83587B58D6}",
+    "Language": "SFX",
+    "Hash": "{E0834E0F-8536-DE06-36E0-5A09A7C28071}",
+    "ObjectPath": "Grenadier_Alert",
+    "ShortName": "Grenadier_Alert",
+    "Path": "Event/Grenadier_Alert.bnk",
+    "Events": [
+     {
+      "Id": "1382368627",
+      "Name": "Grenadier_Alert",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Enemies\\Grenadiers\\Grenadier_Alert",
+      "GUID": "{6621E495-6ADE-4924-B10D-CA83587B58D6}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{388C353F-57F5-A28C-AB82-D70CBDBE18E5}"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "518983254",
+    "Type": "Event",
+    "GUID": "{A61992F3-83E4-4045-89CC-8B8AE296B863}",
+    "Language": "SFX",
+    "Hash": "{B75E3A40-D728-6117-EFF2-4E8616849C7F}",
+    "ObjectPath": "Ellen_Jumping",
+    "ShortName": "Ellen_Jumping",
+    "Path": "Event/Ellen_Jumping.bnk",
+    "Events": [
+     {
+      "Id": "518983254",
+      "Name": "Ellen_Jumping",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Ellen\\Ellen_Jumping",
+      "GUID": "{A61992F3-83E4-4045-89CC-8B8AE296B863}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{52DEDAB7-8F6F-FFEC-3E86-77B1904DFC05}"
+ }
+}

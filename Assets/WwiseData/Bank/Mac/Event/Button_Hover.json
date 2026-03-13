@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1701177942",
+    "Type": "Event",
+    "GUID": "{DF93E060-06F1-4A5D-8E13-BA9B936B5B1E}",
+    "Language": "SFX",
+    "Hash": "{8B3498C6-6454-BEC5-AA40-ED9EFC532C55}",
+    "ObjectPath": "Button_Hover",
+    "ShortName": "Button_Hover",
+    "Path": "Event/Button_Hover.bnk",
+    "Events": [
+     {
+      "Id": "1701177942",
+      "Name": "Button_Hover",
+      "ObjectPath": "\\Events\\Default Work Unit\\UI\\Menus\\Button_Hover",
+      "GUID": "{DF93E060-06F1-4A5D-8E13-BA9B936B5B1E}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{9880B0E8-C324-2EEF-C694-CD2280AA7E3A}"
+ }
+}

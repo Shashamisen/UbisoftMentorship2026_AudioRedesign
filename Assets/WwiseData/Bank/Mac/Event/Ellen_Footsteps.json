@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1818919719",
+    "Type": "Event",
+    "GUID": "{97B2E858-0F46-48EE-9551-3F4AB23B61B8}",
+    "Language": "SFX",
+    "Hash": "{567F06A1-1E4E-692F-449C-DCA2335ADB66}",
+    "ObjectPath": "Ellen_Footsteps",
+    "ShortName": "Ellen_Footsteps",
+    "Path": "Event/Ellen_Footsteps.bnk",
+    "Events": [
+     {
+      "Id": "1818919719",
+      "Name": "Ellen_Footsteps",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Ellen\\Ellen_Footsteps",
+      "GUID": "{97B2E858-0F46-48EE-9551-3F4AB23B61B8}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{2770D236-5310-B661-C9C8-174544AE9DD2}"
+ }
+}

@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	219304270	Jungle			\Default Work Unit\Environment\Ambiance\Jungle	
+	878265374	Ellen_MeleeAttack			\Default Work Unit\Characters\Ellen\Ellen_MeleeAttack	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	301457	placeholder_punch_3	C:\01_Projets\Unity\UbisoftMentorship2026_AudioRedesign\UbisoftMentorship2026_AudioRedesign_WwiseProject\.cache\25\{255A5F90-7341-69BF-2265-348AF4EBAB8C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Ellen\Attacks\Melee\Hit_Combo\placeholder_punch_3		141712
+	5286774	placeholder_punch_2	C:\01_Projets\Unity\UbisoftMentorship2026_AudioRedesign\UbisoftMentorship2026_AudioRedesign_WwiseProject\.cache\6C\{6C4A4F10-EEDE-57D0-24F3-A83E0B5AB6D9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Ellen\Attacks\Melee\Hit_Combo\placeholder_punch_2		109844
+	253003132	PH_Amb_Jungle_2	C:\01_Projets\Unity\UbisoftMentorship2026_AudioRedesign\UbisoftMentorship2026_AudioRedesign_WwiseProject\.cache\8F\{8FA78516-10C1-3084-332C-71F53ADFBE61}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambiance\Jungle\PH_Amb_Jungle_2		37573728
+	663589242	placeholder_punch_1	C:\01_Projets\Unity\UbisoftMentorship2026_AudioRedesign\UbisoftMentorship2026_AudioRedesign_WwiseProject\.cache\FB\{FBB4A8CF-6BFA-A9CC-B87C-A413BDD16952}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Ellen\Attacks\Melee\Hit_Combo\placeholder_punch_1		173404
+	872424790	placeholder_punch_5	C:\01_Projets\Unity\UbisoftMentorship2026_AudioRedesign\UbisoftMentorship2026_AudioRedesign_WwiseProject\.cache\A0\{A0AB717E-A470-C00F-F235-8B2A4A2C935B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Characters\Ellen\Attacks\Melee\Hit_Combo\placeholder_punch_5		97580
+

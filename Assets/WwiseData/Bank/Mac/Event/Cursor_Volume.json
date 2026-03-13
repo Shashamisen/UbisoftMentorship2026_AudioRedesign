@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2370079016",
+    "Type": "Event",
+    "GUID": "{9132A0DE-0D0E-488A-889E-DE70A8032127}",
+    "Language": "SFX",
+    "Hash": "{A186189E-3A70-1F49-BBF8-33D3BBF44D39}",
+    "ObjectPath": "Cursor_Volume",
+    "ShortName": "Cursor_Volume",
+    "Path": "Event/Cursor_Volume.bnk",
+    "Events": [
+     {
+      "Id": "2370079016",
+      "Name": "Cursor_Volume",
+      "ObjectPath": "\\Events\\Default Work Unit\\UI\\Menus\\Cursor_Volume",
+      "GUID": "{9132A0DE-0D0E-488A-889E-DE70A8032127}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{9C739B16-DA37-ED80-FD8F-0262AAC35260}"
+ }
+}

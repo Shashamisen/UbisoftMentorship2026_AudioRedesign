@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "510827497",
+    "Type": "Event",
+    "GUID": "{084A43F8-0C7F-4E54-BCD0-DA2AD9497BBB}",
+    "Language": "SFX",
+    "Hash": "{B0C9B997-8DDF-38EB-52A7-DB3048306ABD}",
+    "ObjectPath": "Button_Back",
+    "ShortName": "Button_Back",
+    "Path": "Event/Button_Back.bnk",
+    "Events": [
+     {
+      "Id": "510827497",
+      "Name": "Button_Back",
+      "ObjectPath": "\\Events\\Default Work Unit\\UI\\Menus\\Button_Back",
+      "GUID": "{084A43F8-0C7F-4E54-BCD0-DA2AD9497BBB}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A313EA2A-AE0C-F6FB-06A1-3591D8D4C8B9}"
+ }
+}

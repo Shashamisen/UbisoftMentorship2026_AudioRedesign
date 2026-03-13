@@ -22,6 +22,33 @@
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
 								</Reference>
 							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="PH_Amb_Jungle_2" ID="{C36BB42C-6233-458F-A6B6-3C954D23F917}" ShortID="772779644">
+									<PropertyList>
+										<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="PH_Amb_Jungle_2" ID="{27C3E6C3-A344-444D-A61C-65FEDB5144DB}">
+											<Language>SFX</Language>
+											<AudioFile>PH_Amb_Jungle_2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="253003132"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="PH_Amb_Jungle_2" ID="{27C3E6C3-A344-444D-A61C-65FEDB5144DB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
 						</ActorMixer>
 						<ActorMixer Name="Cave" ID="{58B61736-F1D2-48E4-AF4A-D2946B1E9658}" ShortID="954412089">
 							<ReferenceList>
@@ -134,6 +161,212 @@
 													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
 												</Reference>
 											</ReferenceList>
+											<ChildrenList>
+												<RandomSequenceContainer Name="Hit_Combo" ID="{39C4A638-A946-4B68-B7B3-C03914EF694F}" ShortID="6663751">
+													<PropertyList>
+														<Property Name="RandomOrSequence" Type="int16" Value="0"/>
+													</PropertyList>
+													<ReferenceList>
+														<Reference Name="Conversion">
+															<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+														</Reference>
+														<Reference Name="OutputBus">
+															<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+														</Reference>
+													</ReferenceList>
+													<ChildrenList>
+														<Sound Name="placeholder_punch_6" ID="{6483D11F-FD69-4A62-A10A-C37794541556}" ShortID="444837550">
+															<PropertyList>
+																<Property Name="Inclusion" Type="bool">
+																	<ValueList>
+																		<Value>False</Value>
+																	</ValueList>
+																</Property>
+															</PropertyList>
+															<ReferenceList>
+																<Reference Name="Conversion">
+																	<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+																</Reference>
+																<Reference Name="OutputBus">
+																	<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+																</Reference>
+															</ReferenceList>
+															<ChildrenList>
+																<AudioFileSource Name="placeholder_punch_6" ID="{C9492B86-88FD-47CB-9C3A-52C67E46B84E}">
+																	<Language>SFX</Language>
+																	<AudioFile>placeholder_punch_6.wav</AudioFile>
+																	<MediaIDList>
+																		<MediaID ID="458677720"/>
+																	</MediaIDList>
+																</AudioFileSource>
+															</ChildrenList>
+															<ActiveSourceList>
+																<ActiveSource Name="placeholder_punch_6" ID="{C9492B86-88FD-47CB-9C3A-52C67E46B84E}" Platform="Linked"/>
+															</ActiveSourceList>
+														</Sound>
+														<Sound Name="placeholder_punch_4" ID="{EFA7EBB7-B4BA-4878-B83F-7E6BEB884C31}" ShortID="327909858">
+															<PropertyList>
+																<Property Name="Inclusion" Type="bool">
+																	<ValueList>
+																		<Value>False</Value>
+																	</ValueList>
+																</Property>
+															</PropertyList>
+															<ReferenceList>
+																<Reference Name="Conversion">
+																	<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+																</Reference>
+																<Reference Name="OutputBus">
+																	<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+																</Reference>
+															</ReferenceList>
+															<ChildrenList>
+																<AudioFileSource Name="placeholder_punch_4" ID="{924FEF32-1C0D-4856-8B98-18CA6CF1459D}">
+																	<Language>SFX</Language>
+																	<AudioFile>placeholder_punch_4.wav</AudioFile>
+																	<MediaIDList>
+																		<MediaID ID="753703271"/>
+																	</MediaIDList>
+																</AudioFileSource>
+															</ChildrenList>
+															<ActiveSourceList>
+																<ActiveSource Name="placeholder_punch_4" ID="{924FEF32-1C0D-4856-8B98-18CA6CF1459D}" Platform="Linked"/>
+															</ActiveSourceList>
+														</Sound>
+														<Sound Name="placeholder_punch_5" ID="{E886D445-0E76-4200-A2A6-BE94C3310DBC}" ShortID="909314522">
+															<ReferenceList>
+																<Reference Name="Conversion">
+																	<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+																</Reference>
+																<Reference Name="OutputBus">
+																	<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+																</Reference>
+															</ReferenceList>
+															<ChildrenList>
+																<AudioFileSource Name="placeholder_punch_5" ID="{DE1DE798-DD39-41A6-9261-A3FD9B7F8ACE}">
+																	<PropertyList>
+																		<Property Name="FadeInDuration" Type="Real64" Value="0.0774502022807816"/>
+																		<Property Name="FadeOutDuration" Type="Real64" Value="0.356653400626315"/>
+																		<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+																		<Property Name="TrimBegin" Type="Real64" Value="0.0200796820727952"/>
+																		<Property Name="TrimEnd" Type="Real64" Value="0.527808757303246"/>
+																	</PropertyList>
+																	<Language>SFX</Language>
+																	<AudioFile>placeholder_punch_5.wav</AudioFile>
+																	<MediaIDList>
+																		<MediaID ID="872424790"/>
+																	</MediaIDList>
+																</AudioFileSource>
+															</ChildrenList>
+															<ActiveSourceList>
+																<ActiveSource Name="placeholder_punch_5" ID="{DE1DE798-DD39-41A6-9261-A3FD9B7F8ACE}" Platform="Linked"/>
+															</ActiveSourceList>
+														</Sound>
+														<Sound Name="placeholder_punch_1" ID="{E6513CD1-E237-492B-B4D5-20942EE1FC60}" ShortID="497890264">
+															<ReferenceList>
+																<Reference Name="Conversion">
+																	<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+																</Reference>
+																<Reference Name="OutputBus">
+																	<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+																</Reference>
+															</ReferenceList>
+															<ChildrenList>
+																<AudioFileSource Name="placeholder_punch_1" ID="{7A565E08-A481-4C0E-A418-732CF4D2F8A4}">
+																	<PropertyList>
+																		<Property Name="FadeInDuration" Type="Real64" Value="0.14291633552764"/>
+																		<Property Name="FadeOutDuration" Type="Real64" Value="0.579187254506753"/>
+																		<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+																		<Property Name="TrimBegin" Type="Real64" Value="0.18804780990479"/>
+																		<Property Name="TrimEnd" Type="Real64" Value="1.09067728886471"/>
+																	</PropertyList>
+																	<Language>SFX</Language>
+																	<AudioFile>placeholder_punch_1.wav</AudioFile>
+																	<MediaIDList>
+																		<MediaID ID="663589242"/>
+																	</MediaIDList>
+																</AudioFileSource>
+															</ChildrenList>
+															<ActiveSourceList>
+																<ActiveSource Name="placeholder_punch_1" ID="{7A565E08-A481-4C0E-A418-732CF4D2F8A4}" Platform="Linked"/>
+															</ActiveSourceList>
+														</Sound>
+														<Sound Name="placeholder_punch_2" ID="{99C49FE2-3724-4A55-B29E-17D1F94D2670}" ShortID="14035824">
+															<ReferenceList>
+																<Reference Name="Conversion">
+																	<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+																</Reference>
+																<Reference Name="OutputBus">
+																	<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+																</Reference>
+															</ReferenceList>
+															<ChildrenList>
+																<AudioFileSource Name="placeholder_punch_2" ID="{6AFF757C-DB16-47B3-9A36-AB67A423785B}">
+																	<PropertyList>
+																		<Property Name="FadeInDuration" Type="Real64" Value="0.100534999038119"/>
+																		<Property Name="FadeOutDuration" Type="Real64" Value="0.39485485129464"/>
+																		<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+																		<Property Name="TrimBegin" Type="Real64" Value="0.173386447616466"/>
+																		<Property Name="TrimEnd" Type="Real64" Value="0.795537860028501"/>
+																	</PropertyList>
+																	<Language>SFX</Language>
+																	<AudioFile>placeholder_punch_2.wav</AudioFile>
+																	<MediaIDList>
+																		<MediaID ID="5286774"/>
+																	</MediaIDList>
+																</AudioFileSource>
+															</ChildrenList>
+															<ActiveSourceList>
+																<ActiveSource Name="placeholder_punch_2" ID="{6AFF757C-DB16-47B3-9A36-AB67A423785B}" Platform="Linked"/>
+															</ActiveSourceList>
+														</Sound>
+														<Sound Name="placeholder_punch_3" ID="{4C444D14-B684-4C8E-98BD-F70A9AAF0E20}" ShortID="703324597">
+															<ReferenceList>
+																<Reference Name="Conversion">
+																	<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{3F18379D-A245-4163-A45B-88EE713464D1}"/>
+																</Reference>
+																<Reference Name="OutputBus">
+																	<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C02169CE-DC36-4D94-90C1-A0F1100E93DD}"/>
+																</Reference>
+															</ReferenceList>
+															<ChildrenList>
+																<AudioFileSource Name="placeholder_punch_3" ID="{B317A8D7-16C2-48A0-B7D2-7813A32331B3}">
+																	<PropertyList>
+																		<Property Name="FadeInDuration" Type="Real64" Value="0.130785699701246"/>
+																		<Property Name="FadeOutDuration" Type="Real64" Value="0.515094448054138"/>
+																		<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+																		<Property Name="TrimEnd" Type="Real64" Value="0.802822999366464"/>
+																	</PropertyList>
+																	<Language>SFX</Language>
+																	<AudioFile>placeholder_punch_3.wav</AudioFile>
+																	<MediaIDList>
+																		<MediaID ID="301457"/>
+																	</MediaIDList>
+																</AudioFileSource>
+															</ChildrenList>
+															<ActiveSourceList>
+																<ActiveSource Name="placeholder_punch_3" ID="{B317A8D7-16C2-48A0-B7D2-7813A32331B3}" Platform="Linked"/>
+															</ActiveSourceList>
+														</Sound>
+													</ChildrenList>
+													<ObjectLists>
+														<ObjectList Name="Playlist">
+															<Reference>
+																<ObjectRef Name="placeholder_punch_5" ID="{E886D445-0E76-4200-A2A6-BE94C3310DBC}" WorkUnitID="{B88D6013-2C03-4889-B099-138188C3B439}"/>
+															</Reference>
+															<Reference>
+																<ObjectRef Name="placeholder_punch_3" ID="{4C444D14-B684-4C8E-98BD-F70A9AAF0E20}" WorkUnitID="{B88D6013-2C03-4889-B099-138188C3B439}"/>
+															</Reference>
+															<Reference>
+																<ObjectRef Name="placeholder_punch_2" ID="{99C49FE2-3724-4A55-B29E-17D1F94D2670}" WorkUnitID="{B88D6013-2C03-4889-B099-138188C3B439}"/>
+															</Reference>
+															<Reference>
+																<ObjectRef Name="placeholder_punch_1" ID="{E6513CD1-E237-492B-B4D5-20942EE1FC60}" WorkUnitID="{B88D6013-2C03-4889-B099-138188C3B439}"/>
+															</Reference>
+														</ObjectList>
+													</ObjectLists>
+												</RandomSequenceContainer>
+											</ChildrenList>
 										</ActorMixer>
 									</ChildrenList>
 								</ActorMixer>

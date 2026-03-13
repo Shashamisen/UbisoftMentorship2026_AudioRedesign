@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "814543256",
+    "Type": "Event",
+    "GUID": "{3FF4CEAF-B7AC-40D9-8588-80C962072D9A}",
+    "Language": "SFX",
+    "Hash": "{CCBEFA86-D855-F3C9-FB07-6BA93EDC56D7}",
+    "ObjectPath": "Button_Click",
+    "ShortName": "Button_Click",
+    "Path": "Event/Button_Click.bnk",
+    "Events": [
+     {
+      "Id": "814543256",
+      "Name": "Button_Click",
+      "ObjectPath": "\\Events\\Default Work Unit\\UI\\Menus\\Button_Click",
+      "GUID": "{3FF4CEAF-B7AC-40D9-8588-80C962072D9A}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{57325F21-52C5-68D1-83A6-0A750F7A1AF1}"
+ }
+}

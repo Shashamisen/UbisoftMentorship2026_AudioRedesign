@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3537680115",
+    "Type": "Event",
+    "GUID": "{07C637AD-649B-45F7-915D-1E05F71203E1}",
+    "Language": "SFX",
+    "Hash": "{75F36E94-E83E-CE2B-A1CB-2E4F91F9C119}",
+    "ObjectPath": "Pause_On",
+    "ShortName": "Pause_On",
+    "Path": "Event/Pause_On.bnk",
+    "Events": [
+     {
+      "Id": "3537680115",
+      "Name": "Pause_On",
+      "ObjectPath": "\\Events\\Default Work Unit\\UI\\Menus\\Pause_On",
+      "GUID": "{07C637AD-649B-45F7-915D-1E05F71203E1}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5A96F744-667D-0DB6-E830-38AA508DD194}"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2390320988",
+    "Type": "Event",
+    "GUID": "{2E13CB43-D5D9-4078-8303-E591384D0562}",
+    "Language": "SFX",
+    "Hash": "{C9B9C05C-D0DE-6D57-993B-36A597089582}",
+    "ObjectPath": "Ellen_Death",
+    "ShortName": "Ellen_Death",
+    "Path": "Event/Ellen_Death.bnk",
+    "Events": [
+     {
+      "Id": "2390320988",
+      "Name": "Ellen_Death",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Ellen\\Ellen_Death",
+      "GUID": "{2E13CB43-D5D9-4078-8303-E591384D0562}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{4810EF27-FDA4-A04B-19E6-60A1074D18D6}"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2728948375",
+    "Type": "Event",
+    "GUID": "{9E83FD2B-8902-4836-B4A7-B2F527F3D886}",
+    "Language": "SFX",
+    "Hash": "{2B3B14B4-0467-5694-2AB3-3E7259DE02C6}",
+    "ObjectPath": "Chest_Open",
+    "ShortName": "Chest_Open",
+    "Path": "Event/Chest_Open.bnk",
+    "Events": [
+     {
+      "Id": "2728948375",
+      "Name": "Chest_Open",
+      "ObjectPath": "\\Events\\Default Work Unit\\Interactibles\\Chest_Open",
+      "GUID": "{9E83FD2B-8902-4836-B4A7-B2F527F3D886}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{0283AACF-B3C2-3951-D207-343BE24BA1A3}"
+ }
+}

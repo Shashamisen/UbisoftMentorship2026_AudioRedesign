@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "468256192",
+    "Type": "Event",
+    "GUID": "{E5EBDD35-FBB1-4164-AFCB-27D5587DAA25}",
+    "Language": "SFX",
+    "Hash": "{F6FA9A5A-3244-D1A3-DF88-AF11D2FAE295}",
+    "ObjectPath": "Dialogue_Bubble",
+    "ShortName": "Dialogue_Bubble",
+    "Path": "Event/Dialogue_Bubble.bnk",
+    "Events": [
+     {
+      "Id": "468256192",
+      "Name": "Dialogue_Bubble",
+      "ObjectPath": "\\Events\\Default Work Unit\\UI\\Dialogue_Bubble",
+      "GUID": "{E5EBDD35-FBB1-4164-AFCB-27D5587DAA25}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A67AAF24-2F87-F93D-F8C5-BD6C511A682A}"
+ }
+}

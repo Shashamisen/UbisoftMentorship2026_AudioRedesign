@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3336773763	Spitter_Death			\Default Work Unit\Characters\Enemies\Spitters\Spitter_Death	
+

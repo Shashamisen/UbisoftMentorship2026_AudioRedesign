@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "596611306",
+    "Type": "Event",
+    "GUID": "{08A51FE9-722E-4633-BA67-135FF91E375D}",
+    "Language": "SFX",
+    "Hash": "{97A364A9-9E3C-FA18-4595-C6948150F7AE}",
+    "ObjectPath": "Chomper_Death",
+    "ShortName": "Chomper_Death",
+    "Path": "Event/Chomper_Death.bnk",
+    "Events": [
+     {
+      "Id": "596611306",
+      "Name": "Chomper_Death",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Enemies\\Chompers\\Chomper_Death",
+      "GUID": "{08A51FE9-722E-4633-BA67-135FF91E375D}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{40682352-3D4A-FF20-8042-0792D337A3C5}"
+ }
+}

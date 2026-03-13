@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4122393694",
+    "Type": "Event",
+    "GUID": "{476F57C4-071C-4549-A07C-012AC527B2DD}",
+    "Language": "SFX",
+    "Hash": "{FA37AD72-7073-6681-4018-2DFCAF679F4B}",
+    "ObjectPath": "Cave",
+    "ShortName": "Cave",
+    "Path": "Event/Cave.bnk",
+    "Events": [
+     {
+      "Id": "4122393694",
+      "Name": "Cave",
+      "ObjectPath": "\\Events\\Default Work Unit\\Environment\\Ambiance\\Cave",
+      "GUID": "{476F57C4-071C-4549-A07C-012AC527B2DD}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{DFA0F558-3EE6-2268-3585-63A818A6C562}"
+ }
+}

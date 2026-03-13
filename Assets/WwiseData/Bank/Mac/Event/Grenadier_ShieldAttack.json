@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3650099956",
+    "Type": "Event",
+    "GUID": "{49FBFE33-6445-4554-A790-1C1C5BCE9024}",
+    "Language": "SFX",
+    "Hash": "{262FED8E-8056-BA22-DDB4-172622BC4BEC}",
+    "ObjectPath": "Grenadier_ShieldAttack",
+    "ShortName": "Grenadier_ShieldAttack",
+    "Path": "Event/Grenadier_ShieldAttack.bnk",
+    "Events": [
+     {
+      "Id": "3650099956",
+      "Name": "Grenadier_ShieldAttack",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Enemies\\Grenadiers\\Grenadier_ShieldAttack",
+      "GUID": "{49FBFE33-6445-4554-A790-1C1C5BCE9024}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{46DD120F-A788-E642-F1E5-76008D3F5335}"
+ }
+}

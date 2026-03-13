@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "510827497",
+    "Type": "Event",
+    "GUID": "{084A43F8-0C7F-4E54-BCD0-DA2AD9497BBB}",
+    "Language": "SFX",
+    "Hash": "{B0C9B997-8DDF-38EB-52A7-DB3048306ABD}",
+    "ObjectPath": "Button_Back",
+    "ShortName": "Button_Back",
+    "Path": "Event/Button_Back.bnk",
+    "Events": [
+     {
+      "Id": "510827497",
+      "Name": "Button_Back",
+      "ObjectPath": "\\Events\\Default Work Unit\\UI\\Menus\\Button_Back",
+      "GUID": "{084A43F8-0C7F-4E54-BCD0-DA2AD9497BBB}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{4642E88C-8D2A-3134-A922-5F0C9339E034}"
+ }
+}

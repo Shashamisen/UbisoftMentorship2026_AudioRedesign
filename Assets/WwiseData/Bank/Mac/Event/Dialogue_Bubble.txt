@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	468256192	Dialogue_Bubble			\Default Work Unit\UI\Dialogue_Bubble	
+

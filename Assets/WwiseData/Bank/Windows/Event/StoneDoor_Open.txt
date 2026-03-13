@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	372812871	StoneDoor_Open			\Default Work Unit\Sequences\StoneDoor_Open	
+

@@ -3,18 +3,11 @@
 	<SoundBanks>
 		<WorkUnit Name="Default Work Unit" ID="{1DBAB301-56CC-4075-A6B3-41CDFEE04896}" PersistMode="Standalone">
 			<ChildrenList>
-				<SoundBank Name="Start" ID="{20C53FFE-0023-4E3D-B940-CC5BAD2A99E0}">
-					<ObjectInclusionList/>
-					<ObjectExclusionList/>
-					<GameSyncExclusionList/>
-				</SoundBank>
-				<SoundBank Name="Level_1" ID="{85E9C2DB-4B7A-43D9-93C9-82FD4CF4E83C}">
-					<ObjectInclusionList/>
-					<ObjectExclusionList/>
-					<GameSyncExclusionList/>
-				</SoundBank>
-				<SoundBank Name="Level_2" ID="{02DFE576-E316-4263-8A48-2859AD70F7B7}">
-					<ObjectInclusionList/>
+				<SoundBank Name="Main" ID="{20C53FFE-0023-4E3D-B940-CC5BAD2A99E0}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Ellen_MeleeAttack" ID="{E2ABB0B5-FAD9-4654-AFF0-58397834683F}" WorkUnitID="{A0979CC4-3251-45E0-9886-A74697EADDEF}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Jungle" ID="{5EE9073C-48B1-47CA-979B-E4447681ED5E}" WorkUnitID="{A0979CC4-3251-45E0-9886-A74697EADDEF}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>

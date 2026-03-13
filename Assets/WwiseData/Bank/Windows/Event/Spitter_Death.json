@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3336773763",
+    "Type": "Event",
+    "GUID": "{1BB24E10-93B0-4D44-99FA-3A37F92CF2FB}",
+    "Language": "SFX",
+    "Hash": "{4A695F4B-2303-2BD7-FA09-AF65CB2CB915}",
+    "ObjectPath": "Spitter_Death",
+    "ShortName": "Spitter_Death",
+    "Path": "Event/Spitter_Death.bnk",
+    "Events": [
+     {
+      "Id": "3336773763",
+      "Name": "Spitter_Death",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Enemies\\Spitters\\Spitter_Death",
+      "GUID": "{1BB24E10-93B0-4D44-99FA-3A37F92CF2FB}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{FC78D710-6E2D-522A-0CD3-0C6BB71E5DC8}"
+ }
+}

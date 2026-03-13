@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "540301611",
+    "Type": "Event",
+    "GUID": "{CFDE061F-3DF2-4200-A774-146D83939321}",
+    "Language": "SFX",
+    "Hash": "{ABD7D4BE-5570-08F7-6BA5-29906A6B561D}",
+    "ObjectPath": "Lava",
+    "ShortName": "Lava",
+    "Path": "Event/Lava.bnk",
+    "Events": [
+     {
+      "Id": "540301611",
+      "Name": "Lava",
+      "ObjectPath": "\\Events\\Default Work Unit\\Environment\\Ambiance\\Lava",
+      "GUID": "{CFDE061F-3DF2-4200-A774-146D83939321}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A671EF46-9722-493B-AEF5-55D7E82D33C2}"
+ }
+}

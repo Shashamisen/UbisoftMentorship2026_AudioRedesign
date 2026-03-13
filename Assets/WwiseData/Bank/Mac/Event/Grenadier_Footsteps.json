@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2373691328",
+    "Type": "Event",
+    "GUID": "{97F96C66-094F-4BD0-B71E-4B91B1921D49}",
+    "Language": "SFX",
+    "Hash": "{835E945E-AE76-A59A-65CC-0020AB7A742E}",
+    "ObjectPath": "Grenadier_Footsteps",
+    "ShortName": "Grenadier_Footsteps",
+    "Path": "Event/Grenadier_Footsteps.bnk",
+    "Events": [
+     {
+      "Id": "2373691328",
+      "Name": "Grenadier_Footsteps",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Enemies\\Grenadiers\\Grenadier_Footsteps",
+      "GUID": "{97F96C66-094F-4BD0-B71E-4B91B1921D49}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{82C860EB-1660-A499-0CC5-CD78E1179A84}"
+ }
+}

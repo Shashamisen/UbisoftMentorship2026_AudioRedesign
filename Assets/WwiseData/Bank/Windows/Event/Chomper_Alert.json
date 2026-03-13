@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3175882654",
+    "Type": "Event",
+    "GUID": "{D4D59B0D-C3BD-4017-BAFA-CE8DA7BB787E}",
+    "Language": "SFX",
+    "Hash": "{47D465EC-3DB1-8727-5093-1BF1A6802E23}",
+    "ObjectPath": "Chomper_Alert",
+    "ShortName": "Chomper_Alert",
+    "Path": "Event/Chomper_Alert.bnk",
+    "Events": [
+     {
+      "Id": "3175882654",
+      "Name": "Chomper_Alert",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Enemies\\Chompers\\Chomper_Alert",
+      "GUID": "{D4D59B0D-C3BD-4017-BAFA-CE8DA7BB787E}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{C52BA924-25EA-3F3E-C882-543770F2121C}"
+ }
+}

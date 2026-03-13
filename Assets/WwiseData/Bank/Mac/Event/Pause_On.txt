@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3537680115	Pause_On			\Default Work Unit\UI\Menus\Pause_On	
+

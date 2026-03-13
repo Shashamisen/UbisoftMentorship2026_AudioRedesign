@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "4159643450",
+    "Type": "Event",
+    "GUID": "{20B283B5-7415-4F94-9649-C933AAD0B2A9}",
+    "Language": "SFX",
+    "Hash": "{85509F6A-7AC6-5339-3BD8-64A48CF38AFF}",
+    "ObjectPath": "Grenadier_RangeAttack",
+    "ShortName": "Grenadier_RangeAttack",
+    "Path": "Event/Grenadier_RangeAttack.bnk",
+    "Events": [
+     {
+      "Id": "4159643450",
+      "Name": "Grenadier_RangeAttack",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Enemies\\Grenadiers\\Grenadier_RangeAttack",
+      "GUID": "{20B283B5-7415-4F94-9649-C933AAD0B2A9}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{066A86F0-78D4-CD1C-E031-D68879A08158}"
+ }
+}

@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1037323622	Chomper_BiteAttack			\Default Work Unit\Characters\Enemies\Chompers\Chomper_BiteAttack	
+

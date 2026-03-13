@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3065557843",
+    "Type": "Event",
+    "GUID": "{86B5CACA-A725-45B9-A67A-1E6C11FE066A}",
+    "Language": "SFX",
+    "Hash": "{FCC3588C-4753-F35E-1157-D86461A2D92A}",
+    "ObjectPath": "Ellen_Revival",
+    "ShortName": "Ellen_Revival",
+    "Path": "Event/Ellen_Revival.bnk",
+    "Events": [
+     {
+      "Id": "3065557843",
+      "Name": "Ellen_Revival",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Ellen\\Ellen_Revival",
+      "GUID": "{86B5CACA-A725-45B9-A67A-1E6C11FE066A}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{668BE1EA-FBA8-5B80-5CF7-270EE502A33E}"
+ }
+}

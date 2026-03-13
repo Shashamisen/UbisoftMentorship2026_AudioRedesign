@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4159643450	Grenadier_RangeAttack			\Default Work Unit\Characters\Enemies\Grenadiers\Grenadier_RangeAttack	
+

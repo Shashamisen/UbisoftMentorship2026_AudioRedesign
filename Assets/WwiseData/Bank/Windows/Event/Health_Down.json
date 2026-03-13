@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "853758190",
+    "Type": "Event",
+    "GUID": "{DAFDD800-1C3C-47AF-872A-BCBED1BF23B4}",
+    "Language": "SFX",
+    "Hash": "{2C151C09-AAC3-409D-C6A5-1725CB738BCB}",
+    "ObjectPath": "Health_Down",
+    "ShortName": "Health_Down",
+    "Path": "Event/Health_Down.bnk",
+    "Events": [
+     {
+      "Id": "853758190",
+      "Name": "Health_Down",
+      "ObjectPath": "\\Events\\Default Work Unit\\UI\\Health_Down",
+      "GUID": "{DAFDD800-1C3C-47AF-872A-BCBED1BF23B4}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5D8BFC11-0004-8ACE-4B87-39967B1194F3}"
+ }
+}

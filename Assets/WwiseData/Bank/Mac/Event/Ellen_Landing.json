@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3882300843",
+    "Type": "Event",
+    "GUID": "{82225ED6-F1B3-4CAD-9A3C-C7AD77147078}",
+    "Language": "SFX",
+    "Hash": "{4A4679D3-9CF0-9DC6-C699-FCB0568FEBC1}",
+    "ObjectPath": "Ellen_Landing",
+    "ShortName": "Ellen_Landing",
+    "Path": "Event/Ellen_Landing.bnk",
+    "Events": [
+     {
+      "Id": "3882300843",
+      "Name": "Ellen_Landing",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Ellen\\Ellen_Landing",
+      "GUID": "{82225ED6-F1B3-4CAD-9A3C-C7AD77147078}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{4B6C0C4F-B1AB-E6E1-8BC4-229766C71B44}"
+ }
+}

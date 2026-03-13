@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	936187765	Spitter_Flight			\Default Work Unit\Characters\Enemies\Spitters\Spitter_Flight	
+

@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "515866046",
+    "Type": "Event",
+    "GUID": "{47EF9C0D-CA65-4E24-A74F-8A9016ADE000}",
+    "Language": "SFX",
+    "Hash": "{DB830BB3-931A-6BD8-15CA-115636805C74}",
+    "ObjectPath": "Grenadier_Hit",
+    "ShortName": "Grenadier_Hit",
+    "Path": "Event/Grenadier_Hit.bnk",
+    "Events": [
+     {
+      "Id": "515866046",
+      "Name": "Grenadier_Hit",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Enemies\\Grenadiers\\Grenadier_Hit",
+      "GUID": "{47EF9C0D-CA65-4E24-A74F-8A9016ADE000}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{13A6A057-3B9B-82C4-8CEE-BF7D6FF04E09}"
+ }
+}

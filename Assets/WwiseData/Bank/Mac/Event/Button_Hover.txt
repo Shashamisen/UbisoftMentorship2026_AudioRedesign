@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1701177942	Button_Hover			\Default Work Unit\UI\Menus\Button_Hover	
+

@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "52027180",
+    "Type": "Event",
+    "GUID": "{77E9AD60-3A0E-488E-B454-A17673A19A5E}",
+    "Language": "SFX",
+    "Hash": "{6A044E94-0C40-F3BF-0D51-A369745370DE}",
+    "ObjectPath": "Spitter_Footsteps",
+    "ShortName": "Spitter_Footsteps",
+    "Path": "Event/Spitter_Footsteps.bnk",
+    "Events": [
+     {
+      "Id": "52027180",
+      "Name": "Spitter_Footsteps",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Enemies\\Spitters\\Spitter_Footsteps",
+      "GUID": "{77E9AD60-3A0E-488E-B454-A17673A19A5E}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{24432472-3179-E2B4-DB13-DCDBECA8605B}"
+ }
+}

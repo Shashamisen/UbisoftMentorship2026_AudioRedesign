@@ -7,7 +7,17 @@
 					<ChildrenList>
 						<Folder Name="Ambiance" ID="{04FFEB96-204B-4B9C-8CE3-D012841F1E24}" ShortID="809835432">
 							<ChildrenList>
-								<Event Name="Jungle" ID="{5EE9073C-48B1-47CA-979B-E4447681ED5E}"/>
+								<Event Name="Jungle" ID="{5EE9073C-48B1-47CA-979B-E4447681ED5E}">
+									<ChildrenList>
+										<Action Name="" ID="{3A86CB48-4BE1-447F-AFFE-BD02239DE3DF}" ShortID="902604036">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="PH_Amb_Jungle_2" ID="{C36BB42C-6233-458F-A6B6-3C954D23F917}" WorkUnitID="{B88D6013-2C03-4889-B099-138188C3B439}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
 								<Event Name="Cave" ID="{476F57C4-071C-4549-A07C-012AC527B2DD}"/>
 								<Event Name="Water" ID="{820A2C70-929D-4DD2-9253-1BC8925052EB}"/>
 								<Event Name="Acid" ID="{63F18B4E-D39D-4317-9CC9-1ED14AD1248E}"/>
@@ -53,7 +63,17 @@
 						<Folder Name="Ellen" ID="{424E54D9-6EBF-4A0D-BCA9-381928A07814}" ShortID="642608424">
 							<ChildrenList>
 								<Event Name="Ellen_Footsteps" ID="{97B2E858-0F46-48EE-9551-3F4AB23B61B8}"/>
-								<Event Name="Ellen_MeleeAttack" ID="{E2ABB0B5-FAD9-4654-AFF0-58397834683F}"/>
+								<Event Name="Ellen_MeleeAttack" ID="{E2ABB0B5-FAD9-4654-AFF0-58397834683F}">
+									<ChildrenList>
+										<Action Name="" ID="{1FE1A91E-9621-4550-9789-C3A532D0077E}" ShortID="40550642">
+											<ReferenceList>
+												<Reference Name="Target">
+													<ObjectRef Name="Hit_Combo" ID="{39C4A638-A946-4B68-B7B3-C03914EF694F}" WorkUnitID="{B88D6013-2C03-4889-B099-138188C3B439}"/>
+												</Reference>
+											</ReferenceList>
+										</Action>
+									</ChildrenList>
+								</Event>
 								<Event Name="Ellen_HitDamage" ID="{236C3DB4-D32A-420A-801C-6F642A9230DF}"/>
 								<Event Name="Ellen_Landing" ID="{82225ED6-F1B3-4CAD-9A3C-C7AD77147078}"/>
 								<Event Name="Ellen_Jumping" ID="{A61992F3-83E4-4045-89CC-8B8AE296B863}"/>

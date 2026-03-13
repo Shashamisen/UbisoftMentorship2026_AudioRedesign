@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2390320988	Ellen_Death			\Default Work Unit\Characters\Ellen\Ellen_Death	
+

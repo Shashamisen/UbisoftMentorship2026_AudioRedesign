@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3306232127",
+    "Type": "Event",
+    "GUID": "{DEF0F433-080B-46BC-A0C9-CB986EFA1F91}",
+    "Language": "SFX",
+    "Hash": "{C408B93E-50A7-FA8A-1240-161D1E13EBC6}",
+    "ObjectPath": "Crystal_Activate",
+    "ShortName": "Crystal_Activate",
+    "Path": "Event/Crystal_Activate.bnk",
+    "Events": [
+     {
+      "Id": "3306232127",
+      "Name": "Crystal_Activate",
+      "ObjectPath": "\\Events\\Default Work Unit\\Interactibles\\Crystal_Activate",
+      "GUID": "{DEF0F433-080B-46BC-A0C9-CB986EFA1F91}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{6618BDEF-9AC4-EA32-DCE4-975185CB66DF}"
+ }
+}

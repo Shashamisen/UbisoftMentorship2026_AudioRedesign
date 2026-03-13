@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "700882620",
+    "Type": "Event",
+    "GUID": "{B537A67B-9A8F-4E56-BF6A-7B2B26C16E7C}",
+    "Language": "SFX",
+    "Hash": "{81DB9AC9-37D3-43E0-3409-BB6207B7476A}",
+    "ObjectPath": "Health_Restored",
+    "ShortName": "Health_Restored",
+    "Path": "Event/Health_Restored.bnk",
+    "Events": [
+     {
+      "Id": "700882620",
+      "Name": "Health_Restored",
+      "ObjectPath": "\\Events\\Default Work Unit\\UI\\Health_Restored",
+      "GUID": "{B537A67B-9A8F-4E56-BF6A-7B2B26C16E7C}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{9681C499-E889-8EF8-102C-DC66789567FF}"
+ }
+}

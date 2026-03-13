@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "596611306",
+    "Type": "Event",
+    "GUID": "{08A51FE9-722E-4633-BA67-135FF91E375D}",
+    "Language": "SFX",
+    "Hash": "{97A364A9-9E3C-FA18-4595-C6948150F7AE}",
+    "ObjectPath": "Chomper_Death",
+    "ShortName": "Chomper_Death",
+    "Path": "Event/Chomper_Death.bnk",
+    "Events": [
+     {
+      "Id": "596611306",
+      "Name": "Chomper_Death",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Enemies\\Chompers\\Chomper_Death",
+      "GUID": "{08A51FE9-722E-4633-BA67-135FF91E375D}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{3ABEA9FA-AB7A-3228-1611-C49F86E5AFE4}"
+ }
+}

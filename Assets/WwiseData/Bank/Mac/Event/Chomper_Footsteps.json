@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "2438244913",
+    "Type": "Event",
+    "GUID": "{92C90469-2B22-47A9-BCF4-A8C848CC3FD9}",
+    "Language": "SFX",
+    "Hash": "{37FF7141-156C-B1C3-2101-59BEF8EBC73D}",
+    "ObjectPath": "Chomper_Footsteps",
+    "ShortName": "Chomper_Footsteps",
+    "Path": "Event/Chomper_Footsteps.bnk",
+    "Events": [
+     {
+      "Id": "2438244913",
+      "Name": "Chomper_Footsteps",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Enemies\\Chompers\\Chomper_Footsteps",
+      "GUID": "{92C90469-2B22-47A9-BCF4-A8C848CC3FD9}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A4DA24E6-2842-E358-8DD1-685CB75C1DD4}"
+ }
+}
