@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="3969785470" Type="Event" GUID="{03D7D1A2-A716-44D8-A736-1305EF092E3E}" Language="SFX" Hash="{8457DA79-690F-0E62-6A7E-F117507EC6FC}">
+			<ObjectPath>Buton_ClickPlay</ObjectPath>
+			<ShortName>Buton_ClickPlay</ShortName>
+			<Path>Event/Buton_ClickPlay.bnk</Path>
+			<Events>
+				<Event Id="3969785470" Name="Buton_ClickPlay" ObjectPath="\Events\Default Work Unit\UI\Menus\Buton_ClickPlay" GUID="{03D7D1A2-A716-44D8-A736-1305EF092E3E}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{8AB8E893-89DB-3E6C-6469-87069DE98A20}</FileHash>
+</SoundBanksInfo>

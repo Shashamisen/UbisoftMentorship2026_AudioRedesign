@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<RootPaths>
+		<ProjectRoot>../../../../../UbisoftMentorship2026_AudioRedesign_WwiseProject</ProjectRoot>
+		<SourceFilesRoot>../../../../../UbisoftMentorship2026_AudioRedesign_WwiseProject/.cache</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>../../../../../UbisoftMentorship2026_AudioRedesign_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="52027180" Type="Event" GUID="{77E9AD60-3A0E-488E-B454-A17673A19A5E}" Language="SFX" Hash="{6A044E94-0C40-F3BF-0D51-A369745370DE}">
+			<ObjectPath>Spitter_Footsteps</ObjectPath>
+			<ShortName>Spitter_Footsteps</ShortName>
+			<Path>Event/Spitter_Footsteps.bnk</Path>
+			<Events>
+				<Event Id="52027180" Name="Spitter_Footsteps" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Spitters\Spitter_Footsteps" GUID="{77E9AD60-3A0E-488E-B454-A17673A19A5E}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="61708154" Type="Event" GUID="{4CE53FFB-139E-4A09-A311-2BDF9610AC21}" Language="SFX" Hash="{F26F6B1C-1A3C-7D56-667A-E298E3812933}">
+			<ObjectPath>Crate_Break</ObjectPath>
+			<ShortName>Crate_Break</ShortName>
+			<Path>Event/Crate_Break.bnk</Path>
+			<Events>
+				<Event Id="61708154" Name="Crate_Break" ObjectPath="\Events\Default Work Unit\Interactibles\Crate_Break" GUID="{4CE53FFB-139E-4A09-A311-2BDF9610AC21}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="219304270" Type="Event" GUID="{5EE9073C-48B1-47CA-979B-E4447681ED5E}" Language="SFX" Hash="{D0908D43-2435-CA97-6D1A-DA374A6AF568}">
+			<ObjectPath>Jungle</ObjectPath>
+			<ShortName>Jungle</ShortName>
+			<Path>Event/Jungle.bnk</Path>
+			<Media>
+				<File Id="253003132" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>PH_Amb_Jungle_2.wav</ShortName>
+					<Path>Media/253003132.wem</Path>
+					<CachePath>8F/{8FA78516-10C1-3084-332C-71F53ADFBE61}.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="219304270" Name="Jungle" ObjectPath="\Events\Default Work Unit\Environment\Ambiance\Jungle" GUID="{5EE9073C-48B1-47CA-979B-E4447681ED5E}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="253003132"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="372812871" Type="Event" GUID="{134B37C1-6567-41A2-BBC1-75121C13B608}" Language="SFX" Hash="{8CBA6FF2-629E-5100-BE22-92E6B0500657}">
+			<ObjectPath>StoneDoor_Open</ObjectPath>
+			<ShortName>StoneDoor_Open</ShortName>
+			<Path>Event/StoneDoor_Open.bnk</Path>
+			<Events>
+				<Event Id="372812871" Name="StoneDoor_Open" ObjectPath="\Events\Default Work Unit\Sequences\StoneDoor_Open" GUID="{134B37C1-6567-41A2-BBC1-75121C13B608}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="468256192" Type="Event" GUID="{E5EBDD35-FBB1-4164-AFCB-27D5587DAA25}" Language="SFX" Hash="{F6FA9A5A-3244-D1A3-DF88-AF11D2FAE295}">
+			<ObjectPath>Dialogue_Bubble</ObjectPath>
+			<ShortName>Dialogue_Bubble</ShortName>
+			<Path>Event/Dialogue_Bubble.bnk</Path>
+			<Events>
+				<Event Id="468256192" Name="Dialogue_Bubble" ObjectPath="\Events\Default Work Unit\UI\Dialogue_Bubble" GUID="{E5EBDD35-FBB1-4164-AFCB-27D5587DAA25}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="504015777" Type="Event" GUID="{2C4AE9E9-74D3-49C5-9A2F-D29B2A972AC2}" Language="SFX" Hash="{DBA7F342-36F8-02A4-11D5-05BF27AE7EA1}">
+			<ObjectPath>Treasure_Collect</ObjectPath>
+			<ShortName>Treasure_Collect</ShortName>
+			<Path>Event/Treasure_Collect.bnk</Path>
+			<Events>
+				<Event Id="504015777" Name="Treasure_Collect" ObjectPath="\Events\Default Work Unit\UI\Treasure_Collect" GUID="{2C4AE9E9-74D3-49C5-9A2F-D29B2A972AC2}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="510827497" Type="Event" GUID="{084A43F8-0C7F-4E54-BCD0-DA2AD9497BBB}" Language="SFX" Hash="{B0C9B997-8DDF-38EB-52A7-DB3048306ABD}">
+			<ObjectPath>Button_Back</ObjectPath>
+			<ShortName>Button_Back</ShortName>
+			<Path>Event/Button_Back.bnk</Path>
+			<Events>
+				<Event Id="510827497" Name="Button_Back" ObjectPath="\Events\Default Work Unit\UI\Menus\Button_Back" GUID="{084A43F8-0C7F-4E54-BCD0-DA2AD9497BBB}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="515866046" Type="Event" GUID="{47EF9C0D-CA65-4E24-A74F-8A9016ADE000}" Language="SFX" Hash="{DB830BB3-931A-6BD8-15CA-115636805C74}">
+			<ObjectPath>Grenadier_Hit</ObjectPath>
+			<ShortName>Grenadier_Hit</ShortName>
+			<Path>Event/Grenadier_Hit.bnk</Path>
+			<Events>
+				<Event Id="515866046" Name="Grenadier_Hit" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Grenadiers\Grenadier_Hit" GUID="{47EF9C0D-CA65-4E24-A74F-8A9016ADE000}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="518983254" Type="Event" GUID="{A61992F3-83E4-4045-89CC-8B8AE296B863}" Language="SFX" Hash="{B75E3A40-D728-6117-EFF2-4E8616849C7F}">
+			<ObjectPath>Ellen_Jumping</ObjectPath>
+			<ShortName>Ellen_Jumping</ShortName>
+			<Path>Event/Ellen_Jumping.bnk</Path>
+			<Events>
+				<Event Id="518983254" Name="Ellen_Jumping" ObjectPath="\Events\Default Work Unit\Characters\Ellen\Ellen_Jumping" GUID="{A61992F3-83E4-4045-89CC-8B8AE296B863}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="540301611" Type="Event" GUID="{CFDE061F-3DF2-4200-A774-146D83939321}" Language="SFX" Hash="{ABD7D4BE-5570-08F7-6BA5-29906A6B561D}">
+			<ObjectPath>Lava</ObjectPath>
+			<ShortName>Lava</ShortName>
+			<Path>Event/Lava.bnk</Path>
+			<Events>
+				<Event Id="540301611" Name="Lava" ObjectPath="\Events\Default Work Unit\Environment\Ambiance\Lava" GUID="{CFDE061F-3DF2-4200-A774-146D83939321}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="596611306" Type="Event" GUID="{08A51FE9-722E-4633-BA67-135FF91E375D}" Language="SFX" Hash="{97A364A9-9E3C-FA18-4595-C6948150F7AE}">
+			<ObjectPath>Chomper_Death</ObjectPath>
+			<ShortName>Chomper_Death</ShortName>
+			<Path>Event/Chomper_Death.bnk</Path>
+			<Events>
+				<Event Id="596611306" Name="Chomper_Death" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Chompers\Chomper_Death" GUID="{08A51FE9-722E-4633-BA67-135FF91E375D}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="700882620" Type="Event" GUID="{B537A67B-9A8F-4E56-BF6A-7B2B26C16E7C}" Language="SFX" Hash="{81DB9AC9-37D3-43E0-3409-BB6207B7476A}">
+			<ObjectPath>Health_Restored</ObjectPath>
+			<ShortName>Health_Restored</ShortName>
+			<Path>Event/Health_Restored.bnk</Path>
+			<Events>
+				<Event Id="700882620" Name="Health_Restored" ObjectPath="\Events\Default Work Unit\UI\Health_Restored" GUID="{B537A67B-9A8F-4E56-BF6A-7B2B26C16E7C}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="814543256" Type="Event" GUID="{3FF4CEAF-B7AC-40D9-8588-80C962072D9A}" Language="SFX" Hash="{CCBEFA86-D855-F3C9-FB07-6BA93EDC56D7}">
+			<ObjectPath>Button_Click</ObjectPath>
+			<ShortName>Button_Click</ShortName>
+			<Path>Event/Button_Click.bnk</Path>
+			<Events>
+				<Event Id="814543256" Name="Button_Click" ObjectPath="\Events\Default Work Unit\UI\Menus\Button_Click" GUID="{3FF4CEAF-B7AC-40D9-8588-80C962072D9A}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="853758190" Type="Event" GUID="{DAFDD800-1C3C-47AF-872A-BCBED1BF23B4}" Language="SFX" Hash="{2C151C09-AAC3-409D-C6A5-1725CB738BCB}">
+			<ObjectPath>Health_Down</ObjectPath>
+			<ShortName>Health_Down</ShortName>
+			<Path>Event/Health_Down.bnk</Path>
+			<Events>
+				<Event Id="853758190" Name="Health_Down" ObjectPath="\Events\Default Work Unit\UI\Health_Down" GUID="{DAFDD800-1C3C-47AF-872A-BCBED1BF23B4}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="860938130" Type="Event" GUID="{236C3DB4-D32A-420A-801C-6F642A9230DF}" Language="SFX" Hash="{58373AA2-7870-8C11-EFF1-C3B214B1661E}">
+			<ObjectPath>Ellen_HitDamage</ObjectPath>
+			<ShortName>Ellen_HitDamage</ShortName>
+			<Path>Event/Ellen_HitDamage.bnk</Path>
+			<Events>
+				<Event Id="860938130" Name="Ellen_HitDamage" ObjectPath="\Events\Default Work Unit\Characters\Ellen\Ellen_HitDamage" GUID="{236C3DB4-D32A-420A-801C-6F642A9230DF}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="878265374" Type="Event" GUID="{E2ABB0B5-FAD9-4654-AFF0-58397834683F}" Language="SFX" Hash="{44080584-0A3B-9D38-8FA3-126D109CD9F9}">
+			<ObjectPath>Ellen_MeleeAttack</ObjectPath>
+			<ShortName>Ellen_MeleeAttack</ShortName>
+			<Path>Event/Ellen_MeleeAttack.bnk</Path>
+			<Media>
+				<File Id="301457" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>placeholder_punch_3.wav</ShortName>
+					<Path>Media/301457.wem</Path>
+					<CachePath>25/{255A5F90-7341-69BF-2265-348AF4EBAB8C}.wem</CachePath>
+				</File>
+				<File Id="5286774" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>placeholder_punch_2.wav</ShortName>
+					<Path>Media/5286774.wem</Path>
+					<CachePath>6C/{6C4A4F10-EEDE-57D0-24F3-A83E0B5AB6D9}.wem</CachePath>
+				</File>
+				<File Id="663589242" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>placeholder_punch_1.wav</ShortName>
+					<Path>Media/663589242.wem</Path>
+					<CachePath>FB/{FBB4A8CF-6BFA-A9CC-B87C-A413BDD16952}.wem</CachePath>
+				</File>
+				<File Id="872424790" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>placeholder_punch_5.wav</ShortName>
+					<Path>Media/872424790.wem</Path>
+					<CachePath>A0/{A0AB717E-A470-C00F-F235-8B2A4A2C935B}.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="878265374" Name="Ellen_MeleeAttack" ObjectPath="\Events\Default Work Unit\Characters\Ellen\Ellen_MeleeAttack" GUID="{E2ABB0B5-FAD9-4654-AFF0-58397834683F}" DurationType="OneShot" DurationMin="0.50772905" DurationMax="0.9026295">
+					<MediaRefs>
+						<MediaRef Id="301457"/>
+						<MediaRef Id="5286774"/>
+						<MediaRef Id="663589242"/>
+						<MediaRef Id="872424790"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="936187765" Type="Event" GUID="{9A7FDD3F-DBD9-41C9-840D-3C840C92EAC0}" Language="SFX" Hash="{C72FCFFA-1B11-B61A-FC68-1118272ABADC}">
+			<ObjectPath>Spitter_Flight</ObjectPath>
+			<ShortName>Spitter_Flight</ShortName>
+			<Path>Event/Spitter_Flight.bnk</Path>
+			<Events>
+				<Event Id="936187765" Name="Spitter_Flight" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Spitters\Spitter_Flight" GUID="{9A7FDD3F-DBD9-41C9-840D-3C840C92EAC0}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="1037323622" Type="Event" GUID="{11546B7A-5FCC-4996-9129-267D7632AE60}" Language="SFX" Hash="{9D9128E4-CFD1-84A9-BCE1-CBC820D1C867}">
+			<ObjectPath>Chomper_BiteAttack</ObjectPath>
+			<ShortName>Chomper_BiteAttack</ShortName>
+			<Path>Event/Chomper_BiteAttack.bnk</Path>
+			<Events>
+				<Event Id="1037323622" Name="Chomper_BiteAttack" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Chompers\Chomper_BiteAttack" GUID="{11546B7A-5FCC-4996-9129-267D7632AE60}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{03FC5E05-D85E-986E-0665-6EA9C4B7E09F}">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" ObjectPath="\Audio Devices\Default Work Unit\No_Output" GUID="{3D90EF8B-71DD-40D3-B8C0-2200CA59BA94}" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" ObjectPath="\Audio Devices\Default Work Unit\System" GUID="{E1ADF492-3F39-4B0F-9901-495F53F647BB}" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus" GUID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
+			</Busses>
+			<StateGroups>
+				<StateGroup Id="2222466688" Name="Life_Status" ObjectPath="\States\Default Work Unit\Life_Status" GUID="{5A7F905A-2C11-42E8-A925-47FF6CF876EA}">
+					<States>
+						<State Id="655265632" Name="Alive" ObjectPath="\States\Default Work Unit\Life_Status\Alive" GUID="{788F3289-B3E3-4754-8C4F-F2CF7F0F09A3}"/>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Life_Status\None" GUID="{92389A84-1AB5-4176-B285-FD4140092007}"/>
+						<State Id="1017222595" Name="LowHealth" ObjectPath="\States\Default Work Unit\Life_Status\LowHealth" GUID="{94D67CB6-1340-4322-B5FF-36C386D2333D}"/>
+						<State Id="2044049779" Name="Dead" ObjectPath="\States\Default Work Unit\Life_Status\Dead" GUID="{3BED6AEC-442A-467C-B025-DA81B4EC6ECB}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="1175037515" Name="Footstep_Ground" ObjectPath="\Switches\Default Work Unit\Footstep_Ground" GUID="{CF6618E2-820D-4673-A071-8C068E9E7831}">
+					<Switches>
+						<Switch Id="114672780" Name="Plant" ObjectPath="\Switches\Default Work Unit\Footstep_Ground\Plant" GUID="{CA922576-7140-4D69-9E66-0146F0A3DE26}"/>
+						<Switch Id="1216965916" Name="Stone" ObjectPath="\Switches\Default Work Unit\Footstep_Ground\Stone" GUID="{ADD7C86F-C810-4B17-9B58-8D457E23F3B7}"/>
+						<Switch Id="2654748154" Name="Water" ObjectPath="\Switches\Default Work Unit\Footstep_Ground\Water" GUID="{1E9BF9F1-3370-4BE1-85EF-95C89F225FF1}"/>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Footstep_Ground\Grass" GUID="{0E85F962-B0FE-4C1F-A058-14E8C67D71BB}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="1382368627" Type="Event" GUID="{6621E495-6ADE-4924-B10D-CA83587B58D6}" Language="SFX" Hash="{E0834E0F-8536-DE06-36E0-5A09A7C28071}">
+			<ObjectPath>Grenadier_Alert</ObjectPath>
+			<ShortName>Grenadier_Alert</ShortName>
+			<Path>Event/Grenadier_Alert.bnk</Path>
+			<Events>
+				<Event Id="1382368627" Name="Grenadier_Alert" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Grenadiers\Grenadier_Alert" GUID="{6621E495-6ADE-4924-B10D-CA83587B58D6}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="1701177942" Type="Event" GUID="{DF93E060-06F1-4A5D-8E13-BA9B936B5B1E}" Language="SFX" Hash="{8B3498C6-6454-BEC5-AA40-ED9EFC532C55}">
+			<ObjectPath>Button_Hover</ObjectPath>
+			<ShortName>Button_Hover</ShortName>
+			<Path>Event/Button_Hover.bnk</Path>
+			<Events>
+				<Event Id="1701177942" Name="Button_Hover" ObjectPath="\Events\Default Work Unit\UI\Menus\Button_Hover" GUID="{DF93E060-06F1-4A5D-8E13-BA9B936B5B1E}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="1818919719" Type="Event" GUID="{97B2E858-0F46-48EE-9551-3F4AB23B61B8}" Language="SFX" Hash="{567F06A1-1E4E-692F-449C-DCA2335ADB66}">
+			<ObjectPath>Ellen_Footsteps</ObjectPath>
+			<ShortName>Ellen_Footsteps</ShortName>
+			<Path>Event/Ellen_Footsteps.bnk</Path>
+			<Events>
+				<Event Id="1818919719" Name="Ellen_Footsteps" ObjectPath="\Events\Default Work Unit\Characters\Ellen\Ellen_Footsteps" GUID="{97B2E858-0F46-48EE-9551-3F4AB23B61B8}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2115176189" Type="Event" GUID="{A3E6AB21-EE2D-421D-BC55-185C0514FCB0}" Language="SFX" Hash="{1CD2A201-1EBF-4B48-5FA4-CC6B9C016CBA}">
+			<ObjectPath>Spitter_SpitAttack</ObjectPath>
+			<ShortName>Spitter_SpitAttack</ShortName>
+			<Path>Event/Spitter_SpitAttack.bnk</Path>
+			<Events>
+				<Event Id="2115176189" Name="Spitter_SpitAttack" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Spitters\Spitter_SpitAttack" GUID="{A3E6AB21-EE2D-421D-BC55-185C0514FCB0}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2370079016" Type="Event" GUID="{9132A0DE-0D0E-488A-889E-DE70A8032127}" Language="SFX" Hash="{A186189E-3A70-1F49-BBF8-33D3BBF44D39}">
+			<ObjectPath>Cursor_Volume</ObjectPath>
+			<ShortName>Cursor_Volume</ShortName>
+			<Path>Event/Cursor_Volume.bnk</Path>
+			<Events>
+				<Event Id="2370079016" Name="Cursor_Volume" ObjectPath="\Events\Default Work Unit\UI\Menus\Cursor_Volume" GUID="{9132A0DE-0D0E-488A-889E-DE70A8032127}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2373691328" Type="Event" GUID="{97F96C66-094F-4BD0-B71E-4B91B1921D49}" Language="SFX" Hash="{835E945E-AE76-A59A-65CC-0020AB7A742E}">
+			<ObjectPath>Grenadier_Footsteps</ObjectPath>
+			<ShortName>Grenadier_Footsteps</ShortName>
+			<Path>Event/Grenadier_Footsteps.bnk</Path>
+			<Events>
+				<Event Id="2373691328" Name="Grenadier_Footsteps" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Grenadiers\Grenadier_Footsteps" GUID="{97F96C66-094F-4BD0-B71E-4B91B1921D49}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2390320988" Type="Event" GUID="{2E13CB43-D5D9-4078-8303-E591384D0562}" Language="SFX" Hash="{C9B9C05C-D0DE-6D57-993B-36A597089582}">
+			<ObjectPath>Ellen_Death</ObjectPath>
+			<ShortName>Ellen_Death</ShortName>
+			<Path>Event/Ellen_Death.bnk</Path>
+			<Events>
+				<Event Id="2390320988" Name="Ellen_Death" ObjectPath="\Events\Default Work Unit\Characters\Ellen\Ellen_Death" GUID="{2E13CB43-D5D9-4078-8303-E591384D0562}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2438244913" Type="Event" GUID="{92C90469-2B22-47A9-BCF4-A8C848CC3FD9}" Language="SFX" Hash="{37FF7141-156C-B1C3-2101-59BEF8EBC73D}">
+			<ObjectPath>Chomper_Footsteps</ObjectPath>
+			<ShortName>Chomper_Footsteps</ShortName>
+			<Path>Event/Chomper_Footsteps.bnk</Path>
+			<Events>
+				<Event Id="2438244913" Name="Chomper_Footsteps" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Chompers\Chomper_Footsteps" GUID="{92C90469-2B22-47A9-BCF4-A8C848CC3FD9}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2654748154" Type="Event" GUID="{820A2C70-929D-4DD2-9253-1BC8925052EB}" Language="SFX" Hash="{B0C0037E-6CC9-C4B5-7C6E-888D9E037444}">
+			<ObjectPath>Water</ObjectPath>
+			<ShortName>Water</ShortName>
+			<Path>Event/Water.bnk</Path>
+			<Events>
+				<Event Id="2654748154" Name="Water" ObjectPath="\Events\Default Work Unit\Environment\Ambiance\Water" GUID="{820A2C70-929D-4DD2-9253-1BC8925052EB}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="2728948375" Type="Event" GUID="{9E83FD2B-8902-4836-B4A7-B2F527F3D886}" Language="SFX" Hash="{2B3B14B4-0467-5694-2AB3-3E7259DE02C6}">
+			<ObjectPath>Chest_Open</ObjectPath>
+			<ShortName>Chest_Open</ShortName>
+			<Path>Event/Chest_Open.bnk</Path>
+			<Events>
+				<Event Id="2728948375" Name="Chest_Open" ObjectPath="\Events\Default Work Unit\Interactibles\Chest_Open" GUID="{9E83FD2B-8902-4836-B4A7-B2F527F3D886}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3065557843" Type="Event" GUID="{86B5CACA-A725-45B9-A67A-1E6C11FE066A}" Language="SFX" Hash="{FCC3588C-4753-F35E-1157-D86461A2D92A}">
+			<ObjectPath>Ellen_Revival</ObjectPath>
+			<ShortName>Ellen_Revival</ShortName>
+			<Path>Event/Ellen_Revival.bnk</Path>
+			<Events>
+				<Event Id="3065557843" Name="Ellen_Revival" ObjectPath="\Events\Default Work Unit\Characters\Ellen\Ellen_Revival" GUID="{86B5CACA-A725-45B9-A67A-1E6C11FE066A}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3093914095" Type="Event" GUID="{C39DCB94-2746-4BEC-B9DE-103E6ED14CD5}" Language="SFX" Hash="{01185D6D-9E27-55DF-3A7A-F897AFA2D82D}">
+			<ObjectPath>Grenadier_Death</ObjectPath>
+			<ShortName>Grenadier_Death</ShortName>
+			<Path>Event/Grenadier_Death.bnk</Path>
+			<Events>
+				<Event Id="3093914095" Name="Grenadier_Death" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Grenadiers\Grenadier_Death" GUID="{C39DCB94-2746-4BEC-B9DE-103E6ED14CD5}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3175882654" Type="Event" GUID="{D4D59B0D-C3BD-4017-BAFA-CE8DA7BB787E}" Language="SFX" Hash="{47D465EC-3DB1-8727-5093-1BF1A6802E23}">
+			<ObjectPath>Chomper_Alert</ObjectPath>
+			<ShortName>Chomper_Alert</ShortName>
+			<Path>Event/Chomper_Alert.bnk</Path>
+			<Events>
+				<Event Id="3175882654" Name="Chomper_Alert" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Chompers\Chomper_Alert" GUID="{D4D59B0D-C3BD-4017-BAFA-CE8DA7BB787E}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3306232127" Type="Event" GUID="{DEF0F433-080B-46BC-A0C9-CB986EFA1F91}" Language="SFX" Hash="{C408B93E-50A7-FA8A-1240-161D1E13EBC6}">
+			<ObjectPath>Crystal_Activate</ObjectPath>
+			<ShortName>Crystal_Activate</ShortName>
+			<Path>Event/Crystal_Activate.bnk</Path>
+			<Events>
+				<Event Id="3306232127" Name="Crystal_Activate" ObjectPath="\Events\Default Work Unit\Interactibles\Crystal_Activate" GUID="{DEF0F433-080B-46BC-A0C9-CB986EFA1F91}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3336773763" Type="Event" GUID="{1BB24E10-93B0-4D44-99FA-3A37F92CF2FB}" Language="SFX" Hash="{4A695F4B-2303-2BD7-FA09-AF65CB2CB915}">
+			<ObjectPath>Spitter_Death</ObjectPath>
+			<ShortName>Spitter_Death</ShortName>
+			<Path>Event/Spitter_Death.bnk</Path>
+			<Events>
+				<Event Id="3336773763" Name="Spitter_Death" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Spitters\Spitter_Death" GUID="{1BB24E10-93B0-4D44-99FA-3A37F92CF2FB}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3537680115" Type="Event" GUID="{07C637AD-649B-45F7-915D-1E05F71203E1}" Language="SFX" Hash="{75F36E94-E83E-CE2B-A1CB-2E4F91F9C119}">
+			<ObjectPath>Pause_On</ObjectPath>
+			<ShortName>Pause_On</ShortName>
+			<Path>Event/Pause_On.bnk</Path>
+			<Events>
+				<Event Id="3537680115" Name="Pause_On" ObjectPath="\Events\Default Work Unit\UI\Menus\Pause_On" GUID="{07C637AD-649B-45F7-915D-1E05F71203E1}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3554728690" Type="Event" GUID="{63F18B4E-D39D-4317-9CC9-1ED14AD1248E}" Language="SFX" Hash="{AEC82577-3E45-BC6A-8A1A-570ADE861E6B}">
+			<ObjectPath>Acid</ObjectPath>
+			<ShortName>Acid</ShortName>
+			<Path>Event/Acid.bnk</Path>
+			<Events>
+				<Event Id="3554728690" Name="Acid" ObjectPath="\Events\Default Work Unit\Environment\Ambiance\Acid" GUID="{63F18B4E-D39D-4317-9CC9-1ED14AD1248E}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3635823591" Type="Event" GUID="{EB23A94C-B712-4945-B4CB-F247FAED569D}" Language="SFX" Hash="{D06092CB-9613-64E6-F14F-01CA61A5DC1A}">
+			<ObjectPath>Spitter_Alert</ObjectPath>
+			<ShortName>Spitter_Alert</ShortName>
+			<Path>Event/Spitter_Alert.bnk</Path>
+			<Events>
+				<Event Id="3635823591" Name="Spitter_Alert" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Spitters\Spitter_Alert" GUID="{EB23A94C-B712-4945-B4CB-F247FAED569D}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3650099956" Type="Event" GUID="{49FBFE33-6445-4554-A790-1C1C5BCE9024}" Language="SFX" Hash="{262FED8E-8056-BA22-DDB4-172622BC4BEC}">
+			<ObjectPath>Grenadier_ShieldAttack</ObjectPath>
+			<ShortName>Grenadier_ShieldAttack</ShortName>
+			<Path>Event/Grenadier_ShieldAttack.bnk</Path>
+			<Events>
+				<Event Id="3650099956" Name="Grenadier_ShieldAttack" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Grenadiers\Grenadier_ShieldAttack" GUID="{49FBFE33-6445-4554-A790-1C1C5BCE9024}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3882300843" Type="Event" GUID="{82225ED6-F1B3-4CAD-9A3C-C7AD77147078}" Language="SFX" Hash="{4A4679D3-9CF0-9DC6-C699-FCB0568FEBC1}">
+			<ObjectPath>Ellen_Landing</ObjectPath>
+			<ShortName>Ellen_Landing</ShortName>
+			<Path>Event/Ellen_Landing.bnk</Path>
+			<Events>
+				<Event Id="3882300843" Name="Ellen_Landing" ObjectPath="\Events\Default Work Unit\Characters\Ellen\Ellen_Landing" GUID="{82225ED6-F1B3-4CAD-9A3C-C7AD77147078}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3967028551" Type="Event" GUID="{05D4B42D-28C5-4A0C-A5EF-D7C8A168A4D2}" Language="SFX" Hash="{534813B3-3FF1-ECC2-45E2-772C2DAA9F64}">
+			<ObjectPath>Pause_Off</ObjectPath>
+			<ShortName>Pause_Off</ShortName>
+			<Path>Event/Pause_Off.bnk</Path>
+			<Events>
+				<Event Id="3967028551" Name="Pause_Off" ObjectPath="\Events\Default Work Unit\UI\Menus\Pause_Off" GUID="{05D4B42D-28C5-4A0C-A5EF-D7C8A168A4D2}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="3969785470" Type="Event" GUID="{03D7D1A2-A716-44D8-A736-1305EF092E3E}" Language="SFX" Hash="{8457DA79-690F-0E62-6A7E-F117507EC6FC}">
+			<ObjectPath>Buton_ClickPlay</ObjectPath>
+			<ShortName>Buton_ClickPlay</ShortName>
+			<Path>Event/Buton_ClickPlay.bnk</Path>
+			<Events>
+				<Event Id="3969785470" Name="Buton_ClickPlay" ObjectPath="\Events\Default Work Unit\UI\Menus\Buton_ClickPlay" GUID="{03D7D1A2-A716-44D8-A736-1305EF092E3E}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="4122393694" Type="Event" GUID="{476F57C4-071C-4549-A07C-012AC527B2DD}" Language="SFX" Hash="{FA37AD72-7073-6681-4018-2DFCAF679F4B}">
+			<ObjectPath>Cave</ObjectPath>
+			<ShortName>Cave</ShortName>
+			<Path>Event/Cave.bnk</Path>
+			<Events>
+				<Event Id="4122393694" Name="Cave" ObjectPath="\Events\Default Work Unit\Environment\Ambiance\Cave" GUID="{476F57C4-071C-4549-A07C-012AC527B2DD}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="4159643450" Type="Event" GUID="{20B283B5-7415-4F94-9649-C933AAD0B2A9}" Language="SFX" Hash="{85509F6A-7AC6-5339-3BD8-64A48CF38AFF}">
+			<ObjectPath>Grenadier_RangeAttack</ObjectPath>
+			<ShortName>Grenadier_RangeAttack</ShortName>
+			<Path>Event/Grenadier_RangeAttack.bnk</Path>
+			<Events>
+				<Event Id="4159643450" Name="Grenadier_RangeAttack" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Grenadiers\Grenadier_RangeAttack" GUID="{20B283B5-7415-4F94-9649-C933AAD0B2A9}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="4258717689" Type="Event" GUID="{D113268E-62BE-4A40-A333-0F6F82027B8B}" Language="SFX" Hash="{2CD6EBDD-AF1D-2B3C-1E88-F7183EA29F5E}">
+			<ObjectPath>PressurePad_Activate</ObjectPath>
+			<ShortName>PressurePad_Activate</ShortName>
+			<Path>Event/PressurePad_Activate.bnk</Path>
+			<Events>
+				<Event Id="4258717689" Name="PressurePad_Activate" ObjectPath="\Events\Default Work Unit\Interactibles\PressurePad_Activate" GUID="{D113268E-62BE-4A40-A333-0F6F82027B8B}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{B802A16B-C304-F773-B758-F347DD524D76}</FileHash>
+</SoundBanksInfo>

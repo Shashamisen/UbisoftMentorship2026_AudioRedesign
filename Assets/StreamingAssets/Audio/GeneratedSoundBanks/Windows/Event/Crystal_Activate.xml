@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="3306232127" Type="Event" GUID="{DEF0F433-080B-46BC-A0C9-CB986EFA1F91}" Language="SFX" Hash="{C408B93E-50A7-FA8A-1240-161D1E13EBC6}">
+			<ObjectPath>Crystal_Activate</ObjectPath>
+			<ShortName>Crystal_Activate</ShortName>
+			<Path>Event/Crystal_Activate.bnk</Path>
+			<Events>
+				<Event Id="3306232127" Name="Crystal_Activate" ObjectPath="\Events\Default Work Unit\Interactibles\Crystal_Activate" GUID="{DEF0F433-080B-46BC-A0C9-CB986EFA1F91}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{DCB6C2CB-58E6-CF2D-8926-08836B8DCDE3}</FileHash>
+</SoundBanksInfo>

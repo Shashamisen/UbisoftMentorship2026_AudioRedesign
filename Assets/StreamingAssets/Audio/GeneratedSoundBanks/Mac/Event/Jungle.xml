@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="219304270" Type="Event" GUID="{5EE9073C-48B1-47CA-979B-E4447681ED5E}" Language="SFX" Hash="{D0908D43-2435-CA97-6D1A-DA374A6AF568}">
+			<ObjectPath>Jungle</ObjectPath>
+			<ShortName>Jungle</ShortName>
+			<Path>Event/Jungle.bnk</Path>
+			<Media>
+				<File Id="253003132" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>PH_Amb_Jungle_2.wav</ShortName>
+					<Path>Media/253003132.wem</Path>
+					<CachePath>8F/{8FA78516-10C1-3084-332C-71F53ADFBE61}.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="219304270" Name="Jungle" ObjectPath="\Events\Default Work Unit\Environment\Ambiance\Jungle" GUID="{5EE9073C-48B1-47CA-979B-E4447681ED5E}" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="253003132"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{126F2B78-B328-DD47-AFB6-2364D978DC5D}</FileHash>
+</SoundBanksInfo>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="510827497" Type="Event" GUID="{084A43F8-0C7F-4E54-BCD0-DA2AD9497BBB}" Language="SFX" Hash="{B0C9B997-8DDF-38EB-52A7-DB3048306ABD}">
+			<ObjectPath>Button_Back</ObjectPath>
+			<ShortName>Button_Back</ShortName>
+			<Path>Event/Button_Back.bnk</Path>
+			<Events>
+				<Event Id="510827497" Name="Button_Back" ObjectPath="\Events\Default Work Unit\UI\Menus\Button_Back" GUID="{084A43F8-0C7F-4E54-BCD0-DA2AD9497BBB}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{6C0B6366-6334-0F1F-0F2E-E32074A03E4A}</FileHash>
+</SoundBanksInfo>

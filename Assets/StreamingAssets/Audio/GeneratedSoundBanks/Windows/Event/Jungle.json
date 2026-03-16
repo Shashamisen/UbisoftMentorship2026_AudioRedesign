@@ -1,0 +1,46 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "219304270",
+    "Type": "Event",
+    "GUID": "{5EE9073C-48B1-47CA-979B-E4447681ED5E}",
+    "Language": "SFX",
+    "Hash": "{D0908D43-2435-CA97-6D1A-DA374A6AF568}",
+    "ObjectPath": "Jungle",
+    "ShortName": "Jungle",
+    "Path": "Event/Jungle.bnk",
+    "Media": [
+     {
+      "Id": "253003132",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "PH_Amb_Jungle_2.wav",
+      "Path": "Media/253003132.wem",
+      "CachePath": "8F/{8FA78516-10C1-3084-332C-71F53ADFBE61}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "219304270",
+      "Name": "Jungle",
+      "ObjectPath": "\\Events\\Default Work Unit\\Environment\\Ambiance\\Jungle",
+      "GUID": "{5EE9073C-48B1-47CA-979B-E4447681ED5E}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "253003132"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{4E4B32F7-5334-FBCF-C0AD-37318CE50E6E}"
+ }
+}

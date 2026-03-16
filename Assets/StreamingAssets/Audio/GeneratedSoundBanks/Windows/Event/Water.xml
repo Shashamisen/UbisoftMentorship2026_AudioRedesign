@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="2654748154" Type="Event" GUID="{820A2C70-929D-4DD2-9253-1BC8925052EB}" Language="SFX" Hash="{B0C0037E-6CC9-C4B5-7C6E-888D9E037444}">
+			<ObjectPath>Water</ObjectPath>
+			<ShortName>Water</ShortName>
+			<Path>Event/Water.bnk</Path>
+			<Events>
+				<Event Id="2654748154" Name="Water" ObjectPath="\Events\Default Work Unit\Environment\Ambiance\Water" GUID="{820A2C70-929D-4DD2-9253-1BC8925052EB}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{9A45163D-96A6-B305-7F8E-9EF0C242832B}</FileHash>
+</SoundBanksInfo>

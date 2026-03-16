@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="3554728690" Type="Event" GUID="{63F18B4E-D39D-4317-9CC9-1ED14AD1248E}" Language="SFX" Hash="{AEC82577-3E45-BC6A-8A1A-570ADE861E6B}">
+			<ObjectPath>Acid</ObjectPath>
+			<ShortName>Acid</ShortName>
+			<Path>Event/Acid.bnk</Path>
+			<Events>
+				<Event Id="3554728690" Name="Acid" ObjectPath="\Events\Default Work Unit\Environment\Ambiance\Acid" GUID="{63F18B4E-D39D-4317-9CC9-1ED14AD1248E}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{59113ED5-EB5D-A23B-1AF3-B127041D1D65}</FileHash>
+</SoundBanksInfo>

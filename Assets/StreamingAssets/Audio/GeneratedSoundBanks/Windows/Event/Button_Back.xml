@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="510827497" Type="Event" GUID="{084A43F8-0C7F-4E54-BCD0-DA2AD9497BBB}" Language="SFX" Hash="{B0C9B997-8DDF-38EB-52A7-DB3048306ABD}">
+			<ObjectPath>Button_Back</ObjectPath>
+			<ShortName>Button_Back</ShortName>
+			<Path>Event/Button_Back.bnk</Path>
+			<Events>
+				<Event Id="510827497" Name="Button_Back" ObjectPath="\Events\Default Work Unit\UI\Menus\Button_Back" GUID="{084A43F8-0C7F-4E54-BCD0-DA2AD9497BBB}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{48DA1806-4A44-3913-DEFE-C00313C37EF0}</FileHash>
+</SoundBanksInfo>

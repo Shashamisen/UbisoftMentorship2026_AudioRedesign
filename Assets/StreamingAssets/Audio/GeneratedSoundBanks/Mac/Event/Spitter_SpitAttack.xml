@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="2115176189" Type="Event" GUID="{A3E6AB21-EE2D-421D-BC55-185C0514FCB0}" Language="SFX" Hash="{1CD2A201-1EBF-4B48-5FA4-CC6B9C016CBA}">
+			<ObjectPath>Spitter_SpitAttack</ObjectPath>
+			<ShortName>Spitter_SpitAttack</ShortName>
+			<Path>Event/Spitter_SpitAttack.bnk</Path>
+			<Events>
+				<Event Id="2115176189" Name="Spitter_SpitAttack" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Spitters\Spitter_SpitAttack" GUID="{A3E6AB21-EE2D-421D-BC55-185C0514FCB0}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{67D7F9DB-2532-E667-05E6-0A66BD7B773E}</FileHash>
+</SoundBanksInfo>

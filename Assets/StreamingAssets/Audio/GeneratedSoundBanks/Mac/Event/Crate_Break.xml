@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="61708154" Type="Event" GUID="{4CE53FFB-139E-4A09-A311-2BDF9610AC21}" Language="SFX" Hash="{F26F6B1C-1A3C-7D56-667A-E298E3812933}">
+			<ObjectPath>Crate_Break</ObjectPath>
+			<ShortName>Crate_Break</ShortName>
+			<Path>Event/Crate_Break.bnk</Path>
+			<Events>
+				<Event Id="61708154" Name="Crate_Break" ObjectPath="\Events\Default Work Unit\Interactibles\Crate_Break" GUID="{4CE53FFB-139E-4A09-A311-2BDF9610AC21}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{5C728457-DC23-BC45-C368-8DAE13D99380}</FileHash>
+</SoundBanksInfo>

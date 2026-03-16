@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="4122393694" Type="Event" GUID="{476F57C4-071C-4549-A07C-012AC527B2DD}" Language="SFX" Hash="{FA37AD72-7073-6681-4018-2DFCAF679F4B}">
+			<ObjectPath>Cave</ObjectPath>
+			<ShortName>Cave</ShortName>
+			<Path>Event/Cave.bnk</Path>
+			<Events>
+				<Event Id="4122393694" Name="Cave" ObjectPath="\Events\Default Work Unit\Environment\Ambiance\Cave" GUID="{476F57C4-071C-4549-A07C-012AC527B2DD}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{EC59384F-13F9-C8EA-D737-7CCFCE1598E2}</FileHash>
+</SoundBanksInfo>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="1355168291" Type="User" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="{03FC5E05-D85E-986E-0665-6EA9C4B7E09F}">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" ObjectPath="\Audio Devices\Default Work Unit\No_Output" GUID="{3D90EF8B-71DD-40D3-B8C0-2200CA59BA94}" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" ObjectPath="\Audio Devices\Default Work Unit\System" GUID="{E1ADF492-3F39-4B0F-9901-495F53F647BB}" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus" GUID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
+			</Busses>
+			<StateGroups>
+				<StateGroup Id="2222466688" Name="Life_Status" ObjectPath="\States\Default Work Unit\Life_Status" GUID="{5A7F905A-2C11-42E8-A925-47FF6CF876EA}">
+					<States>
+						<State Id="655265632" Name="Alive" ObjectPath="\States\Default Work Unit\Life_Status\Alive" GUID="{788F3289-B3E3-4754-8C4F-F2CF7F0F09A3}"/>
+						<State Id="748895195" Name="None" ObjectPath="\States\Default Work Unit\Life_Status\None" GUID="{92389A84-1AB5-4176-B285-FD4140092007}"/>
+						<State Id="1017222595" Name="LowHealth" ObjectPath="\States\Default Work Unit\Life_Status\LowHealth" GUID="{94D67CB6-1340-4322-B5FF-36C386D2333D}"/>
+						<State Id="2044049779" Name="Dead" ObjectPath="\States\Default Work Unit\Life_Status\Dead" GUID="{3BED6AEC-442A-467C-B025-DA81B4EC6ECB}"/>
+					</States>
+				</StateGroup>
+			</StateGroups>
+			<SwitchGroups>
+				<SwitchGroup Id="1175037515" Name="Footstep_Ground" ObjectPath="\Switches\Default Work Unit\Footstep_Ground" GUID="{CF6618E2-820D-4673-A071-8C068E9E7831}">
+					<Switches>
+						<Switch Id="114672780" Name="Plant" ObjectPath="\Switches\Default Work Unit\Footstep_Ground\Plant" GUID="{CA922576-7140-4D69-9E66-0146F0A3DE26}"/>
+						<Switch Id="1216965916" Name="Stone" ObjectPath="\Switches\Default Work Unit\Footstep_Ground\Stone" GUID="{ADD7C86F-C810-4B17-9B58-8D457E23F3B7}"/>
+						<Switch Id="2654748154" Name="Water" ObjectPath="\Switches\Default Work Unit\Footstep_Ground\Water" GUID="{1E9BF9F1-3370-4BE1-85EF-95C89F225FF1}"/>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Footstep_Ground\Grass" GUID="{0E85F962-B0FE-4C1F-A058-14E8C67D71BB}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{0E3C764B-83E8-C482-8B00-A90F244CD4BA}</FileHash>
+</SoundBanksInfo>

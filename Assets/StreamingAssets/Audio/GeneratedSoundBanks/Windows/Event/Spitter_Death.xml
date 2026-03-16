@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="3336773763" Type="Event" GUID="{1BB24E10-93B0-4D44-99FA-3A37F92CF2FB}" Language="SFX" Hash="{4A695F4B-2303-2BD7-FA09-AF65CB2CB915}">
+			<ObjectPath>Spitter_Death</ObjectPath>
+			<ShortName>Spitter_Death</ShortName>
+			<Path>Event/Spitter_Death.bnk</Path>
+			<Events>
+				<Event Id="3336773763" Name="Spitter_Death" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Spitters\Spitter_Death" GUID="{1BB24E10-93B0-4D44-99FA-3A37F92CF2FB}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{0AC5BBDD-84AD-84F5-F093-2D05D0AB43B2}</FileHash>
+</SoundBanksInfo>

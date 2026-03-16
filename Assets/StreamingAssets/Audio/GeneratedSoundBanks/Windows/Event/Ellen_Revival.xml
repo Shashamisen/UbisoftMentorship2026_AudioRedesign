@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="3065557843" Type="Event" GUID="{86B5CACA-A725-45B9-A67A-1E6C11FE066A}" Language="SFX" Hash="{FCC3588C-4753-F35E-1157-D86461A2D92A}">
+			<ObjectPath>Ellen_Revival</ObjectPath>
+			<ShortName>Ellen_Revival</ShortName>
+			<Path>Event/Ellen_Revival.bnk</Path>
+			<Events>
+				<Event Id="3065557843" Name="Ellen_Revival" ObjectPath="\Events\Default Work Unit\Characters\Ellen\Ellen_Revival" GUID="{86B5CACA-A725-45B9-A67A-1E6C11FE066A}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{74444C37-41D7-7023-C8FC-E4EF1B134A97}</FileHash>
+</SoundBanksInfo>

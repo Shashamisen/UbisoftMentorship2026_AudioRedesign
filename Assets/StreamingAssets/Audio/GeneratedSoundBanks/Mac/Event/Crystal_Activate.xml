@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="3306232127" Type="Event" GUID="{DEF0F433-080B-46BC-A0C9-CB986EFA1F91}" Language="SFX" Hash="{C408B93E-50A7-FA8A-1240-161D1E13EBC6}">
+			<ObjectPath>Crystal_Activate</ObjectPath>
+			<ShortName>Crystal_Activate</ShortName>
+			<Path>Event/Crystal_Activate.bnk</Path>
+			<Events>
+				<Event Id="3306232127" Name="Crystal_Activate" ObjectPath="\Events\Default Work Unit\Interactibles\Crystal_Activate" GUID="{DEF0F433-080B-46BC-A0C9-CB986EFA1F91}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{9E7E4B3A-4EAF-93D9-6567-598397B7495E}</FileHash>
+</SoundBanksInfo>

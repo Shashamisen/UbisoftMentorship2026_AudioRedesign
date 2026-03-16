@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="4258717689" Type="Event" GUID="{D113268E-62BE-4A40-A333-0F6F82027B8B}" Language="SFX" Hash="{2CD6EBDD-AF1D-2B3C-1E88-F7183EA29F5E}">
+			<ObjectPath>PressurePad_Activate</ObjectPath>
+			<ShortName>PressurePad_Activate</ShortName>
+			<Path>Event/PressurePad_Activate.bnk</Path>
+			<Events>
+				<Event Id="4258717689" Name="PressurePad_Activate" ObjectPath="\Events\Default Work Unit\Interactibles\PressurePad_Activate" GUID="{D113268E-62BE-4A40-A333-0F6F82027B8B}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{F686D424-6BEC-C9E7-1A08-330CF98138A7}</FileHash>
+</SoundBanksInfo>

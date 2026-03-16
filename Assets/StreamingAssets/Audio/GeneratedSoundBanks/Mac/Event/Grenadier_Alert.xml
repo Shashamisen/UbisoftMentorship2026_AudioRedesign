@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="1382368627" Type="Event" GUID="{6621E495-6ADE-4924-B10D-CA83587B58D6}" Language="SFX" Hash="{E0834E0F-8536-DE06-36E0-5A09A7C28071}">
+			<ObjectPath>Grenadier_Alert</ObjectPath>
+			<ShortName>Grenadier_Alert</ShortName>
+			<Path>Event/Grenadier_Alert.bnk</Path>
+			<Events>
+				<Event Id="1382368627" Name="Grenadier_Alert" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Grenadiers\Grenadier_Alert" GUID="{6621E495-6ADE-4924-B10D-CA83587B58D6}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{6B874ED7-07B6-5EB9-B03B-14A9AA9F967C}</FileHash>
+</SoundBanksInfo>

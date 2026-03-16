@@ -1,0 +1,84 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "878265374",
+    "Type": "Event",
+    "GUID": "{E2ABB0B5-FAD9-4654-AFF0-58397834683F}",
+    "Language": "SFX",
+    "Hash": "{44080584-0A3B-9D38-8FA3-126D109CD9F9}",
+    "ObjectPath": "Ellen_MeleeAttack",
+    "ShortName": "Ellen_MeleeAttack",
+    "Path": "Event/Ellen_MeleeAttack.bnk",
+    "Media": [
+     {
+      "Id": "301457",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "placeholder_punch_3.wav",
+      "Path": "Media/301457.wem",
+      "CachePath": "25/{255A5F90-7341-69BF-2265-348AF4EBAB8C}.wem"
+     },
+     {
+      "Id": "5286774",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "placeholder_punch_2.wav",
+      "Path": "Media/5286774.wem",
+      "CachePath": "6C/{6C4A4F10-EEDE-57D0-24F3-A83E0B5AB6D9}.wem"
+     },
+     {
+      "Id": "663589242",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "placeholder_punch_1.wav",
+      "Path": "Media/663589242.wem",
+      "CachePath": "FB/{FBB4A8CF-6BFA-A9CC-B87C-A413BDD16952}.wem"
+     },
+     {
+      "Id": "872424790",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "placeholder_punch_5.wav",
+      "Path": "Media/872424790.wem",
+      "CachePath": "A0/{A0AB717E-A470-C00F-F235-8B2A4A2C935B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "878265374",
+      "Name": "Ellen_MeleeAttack",
+      "ObjectPath": "\\Events\\Default Work Unit\\Characters\\Ellen\\Ellen_MeleeAttack",
+      "GUID": "{E2ABB0B5-FAD9-4654-AFF0-58397834683F}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.50772905",
+      "DurationMax": "0.9026295",
+      "MediaRefs": [
+       {
+        "Id": "301457"
+       },
+       {
+        "Id": "5286774"
+       },
+       {
+        "Id": "663589242"
+       },
+       {
+        "Id": "872424790"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A9035C74-C2DC-18A4-B510-8B24BE6B6200}"
+ }
+}

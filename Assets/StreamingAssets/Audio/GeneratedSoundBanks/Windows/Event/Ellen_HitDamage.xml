@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="860938130" Type="Event" GUID="{236C3DB4-D32A-420A-801C-6F642A9230DF}" Language="SFX" Hash="{58373AA2-7870-8C11-EFF1-C3B214B1661E}">
+			<ObjectPath>Ellen_HitDamage</ObjectPath>
+			<ShortName>Ellen_HitDamage</ShortName>
+			<Path>Event/Ellen_HitDamage.bnk</Path>
+			<Events>
+				<Event Id="860938130" Name="Ellen_HitDamage" ObjectPath="\Events\Default Work Unit\Characters\Ellen\Ellen_HitDamage" GUID="{236C3DB4-D32A-420A-801C-6F642A9230DF}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{9C050911-902B-C402-1127-1AC91844FFBE}</FileHash>
+</SoundBanksInfo>

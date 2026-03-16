@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="3093914095" Type="Event" GUID="{C39DCB94-2746-4BEC-B9DE-103E6ED14CD5}" Language="SFX" Hash="{01185D6D-9E27-55DF-3A7A-F897AFA2D82D}">
+			<ObjectPath>Grenadier_Death</ObjectPath>
+			<ShortName>Grenadier_Death</ShortName>
+			<Path>Event/Grenadier_Death.bnk</Path>
+			<Events>
+				<Event Id="3093914095" Name="Grenadier_Death" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Grenadiers\Grenadier_Death" GUID="{C39DCB94-2746-4BEC-B9DE-103E6ED14CD5}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{F6A99D70-377C-5D6D-BB31-A55DDFA50F40}</FileHash>
+</SoundBanksInfo>

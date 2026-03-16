@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="2390320988" Type="Event" GUID="{2E13CB43-D5D9-4078-8303-E591384D0562}" Language="SFX" Hash="{C9B9C05C-D0DE-6D57-993B-36A597089582}">
+			<ObjectPath>Ellen_Death</ObjectPath>
+			<ShortName>Ellen_Death</ShortName>
+			<Path>Event/Ellen_Death.bnk</Path>
+			<Events>
+				<Event Id="2390320988" Name="Ellen_Death" ObjectPath="\Events\Default Work Unit\Characters\Ellen\Ellen_Death" GUID="{2E13CB43-D5D9-4078-8303-E591384D0562}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{6FBC836C-F344-BDC4-7A09-2C6093F836F1}</FileHash>
+</SoundBanksInfo>

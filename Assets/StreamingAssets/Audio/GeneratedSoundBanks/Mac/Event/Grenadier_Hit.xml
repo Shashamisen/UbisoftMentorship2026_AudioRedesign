@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="515866046" Type="Event" GUID="{47EF9C0D-CA65-4E24-A74F-8A9016ADE000}" Language="SFX" Hash="{DB830BB3-931A-6BD8-15CA-115636805C74}">
+			<ObjectPath>Grenadier_Hit</ObjectPath>
+			<ShortName>Grenadier_Hit</ShortName>
+			<Path>Event/Grenadier_Hit.bnk</Path>
+			<Events>
+				<Event Id="515866046" Name="Grenadier_Hit" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Grenadiers\Grenadier_Hit" GUID="{47EF9C0D-CA65-4E24-A74F-8A9016ADE000}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{48FA10F9-A67F-CD2E-CAC9-A5AA9E4B6C3A}</FileHash>
+</SoundBanksInfo>

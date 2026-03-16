@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="504015777" Type="Event" GUID="{2C4AE9E9-74D3-49C5-9A2F-D29B2A972AC2}" Language="SFX" Hash="{DBA7F342-36F8-02A4-11D5-05BF27AE7EA1}">
+			<ObjectPath>Treasure_Collect</ObjectPath>
+			<ShortName>Treasure_Collect</ShortName>
+			<Path>Event/Treasure_Collect.bnk</Path>
+			<Events>
+				<Event Id="504015777" Name="Treasure_Collect" ObjectPath="\Events\Default Work Unit\UI\Treasure_Collect" GUID="{2C4AE9E9-74D3-49C5-9A2F-D29B2A972AC2}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{689DB6A3-BA22-32FC-B315-FE7C8107DE64}</FileHash>
+</SoundBanksInfo>

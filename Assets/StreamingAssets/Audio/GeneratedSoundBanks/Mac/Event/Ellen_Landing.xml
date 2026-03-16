@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="3882300843" Type="Event" GUID="{82225ED6-F1B3-4CAD-9A3C-C7AD77147078}" Language="SFX" Hash="{4A4679D3-9CF0-9DC6-C699-FCB0568FEBC1}">
+			<ObjectPath>Ellen_Landing</ObjectPath>
+			<ShortName>Ellen_Landing</ShortName>
+			<Path>Event/Ellen_Landing.bnk</Path>
+			<Events>
+				<Event Id="3882300843" Name="Ellen_Landing" ObjectPath="\Events\Default Work Unit\Characters\Ellen\Ellen_Landing" GUID="{82225ED6-F1B3-4CAD-9A3C-C7AD77147078}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{17984EFA-F187-3505-18F5-3447D48A626E}</FileHash>
+</SoundBanksInfo>

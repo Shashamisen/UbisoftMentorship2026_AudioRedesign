@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="372812871" Type="Event" GUID="{134B37C1-6567-41A2-BBC1-75121C13B608}" Language="SFX" Hash="{8CBA6FF2-629E-5100-BE22-92E6B0500657}">
+			<ObjectPath>StoneDoor_Open</ObjectPath>
+			<ShortName>StoneDoor_Open</ShortName>
+			<Path>Event/StoneDoor_Open.bnk</Path>
+			<Events>
+				<Event Id="372812871" Name="StoneDoor_Open" ObjectPath="\Events\Default Work Unit\Sequences\StoneDoor_Open" GUID="{134B37C1-6567-41A2-BBC1-75121C13B608}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{ED7F5EC4-A798-4273-E2AB-CBA14DEE36E6}</FileHash>
+</SoundBanksInfo>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="853758190" Type="Event" GUID="{DAFDD800-1C3C-47AF-872A-BCBED1BF23B4}" Language="SFX" Hash="{2C151C09-AAC3-409D-C6A5-1725CB738BCB}">
+			<ObjectPath>Health_Down</ObjectPath>
+			<ShortName>Health_Down</ShortName>
+			<Path>Event/Health_Down.bnk</Path>
+			<Events>
+				<Event Id="853758190" Name="Health_Down" ObjectPath="\Events\Default Work Unit\UI\Health_Down" GUID="{DAFDD800-1C3C-47AF-872A-BCBED1BF23B4}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{6B1C4015-24EF-916D-4DAD-C2D609F2813F}</FileHash>
+</SoundBanksInfo>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="878265374" Type="Event" GUID="{E2ABB0B5-FAD9-4654-AFF0-58397834683F}" Language="SFX" Hash="{44080584-0A3B-9D38-8FA3-126D109CD9F9}">
+			<ObjectPath>Ellen_MeleeAttack</ObjectPath>
+			<ShortName>Ellen_MeleeAttack</ShortName>
+			<Path>Event/Ellen_MeleeAttack.bnk</Path>
+			<Media>
+				<File Id="301457" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>placeholder_punch_3.wav</ShortName>
+					<Path>Media/301457.wem</Path>
+					<CachePath>25/{255A5F90-7341-69BF-2265-348AF4EBAB8C}.wem</CachePath>
+				</File>
+				<File Id="5286774" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>placeholder_punch_2.wav</ShortName>
+					<Path>Media/5286774.wem</Path>
+					<CachePath>6C/{6C4A4F10-EEDE-57D0-24F3-A83E0B5AB6D9}.wem</CachePath>
+				</File>
+				<File Id="663589242" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>placeholder_punch_1.wav</ShortName>
+					<Path>Media/663589242.wem</Path>
+					<CachePath>FB/{FBB4A8CF-6BFA-A9CC-B87C-A413BDD16952}.wem</CachePath>
+				</File>
+				<File Id="872424790" Language="SFX" Streaming="false" Location="Loose">
+					<ShortName>placeholder_punch_5.wav</ShortName>
+					<Path>Media/872424790.wem</Path>
+					<CachePath>A0/{A0AB717E-A470-C00F-F235-8B2A4A2C935B}.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="878265374" Name="Ellen_MeleeAttack" ObjectPath="\Events\Default Work Unit\Characters\Ellen\Ellen_MeleeAttack" GUID="{E2ABB0B5-FAD9-4654-AFF0-58397834683F}" DurationType="OneShot" DurationMin="0.50772905" DurationMax="0.9026295">
+					<MediaRefs>
+						<MediaRef Id="301457"/>
+						<MediaRef Id="5286774"/>
+						<MediaRef Id="663589242"/>
+						<MediaRef Id="872424790"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{E8616DB8-31BE-0AF6-DE9E-22CEA579A6F6}</FileHash>
+</SoundBanksInfo>

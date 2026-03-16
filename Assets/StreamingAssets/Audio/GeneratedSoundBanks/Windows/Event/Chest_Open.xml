@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="2728948375" Type="Event" GUID="{9E83FD2B-8902-4836-B4A7-B2F527F3D886}" Language="SFX" Hash="{2B3B14B4-0467-5694-2AB3-3E7259DE02C6}">
+			<ObjectPath>Chest_Open</ObjectPath>
+			<ShortName>Chest_Open</ShortName>
+			<Path>Event/Chest_Open.bnk</Path>
+			<Events>
+				<Event Id="2728948375" Name="Chest_Open" ObjectPath="\Events\Default Work Unit\Interactibles\Chest_Open" GUID="{9E83FD2B-8902-4836-B4A7-B2F527F3D886}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{BA7BFF1C-3852-A537-586C-DB6EA32BFE61}</FileHash>
+</SoundBanksInfo>

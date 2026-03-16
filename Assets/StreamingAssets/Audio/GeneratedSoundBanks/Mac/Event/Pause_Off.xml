@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="3967028551" Type="Event" GUID="{05D4B42D-28C5-4A0C-A5EF-D7C8A168A4D2}" Language="SFX" Hash="{534813B3-3FF1-ECC2-45E2-772C2DAA9F64}">
+			<ObjectPath>Pause_Off</ObjectPath>
+			<ShortName>Pause_Off</ShortName>
+			<Path>Event/Pause_Off.bnk</Path>
+			<Events>
+				<Event Id="3967028551" Name="Pause_Off" ObjectPath="\Events\Default Work Unit\UI\Menus\Pause_Off" GUID="{05D4B42D-28C5-4A0C-A5EF-D7C8A168A4D2}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{C2134BD6-4280-7D71-6BF5-EFA0EFCF9846}</FileHash>
+</SoundBanksInfo>

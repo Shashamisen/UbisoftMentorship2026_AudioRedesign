@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="2438244913" Type="Event" GUID="{92C90469-2B22-47A9-BCF4-A8C848CC3FD9}" Language="SFX" Hash="{37FF7141-156C-B1C3-2101-59BEF8EBC73D}">
+			<ObjectPath>Chomper_Footsteps</ObjectPath>
+			<ShortName>Chomper_Footsteps</ShortName>
+			<Path>Event/Chomper_Footsteps.bnk</Path>
+			<Events>
+				<Event Id="2438244913" Name="Chomper_Footsteps" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Chompers\Chomper_Footsteps" GUID="{92C90469-2B22-47A9-BCF4-A8C848CC3FD9}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{A9600866-080C-9F69-5AE9-18A2CA87A74F}</FileHash>
+</SoundBanksInfo>

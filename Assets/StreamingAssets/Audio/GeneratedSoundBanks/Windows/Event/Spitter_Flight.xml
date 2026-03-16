@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="154">
+	<SoundBanks>
+		<SoundBank Id="936187765" Type="Event" GUID="{9A7FDD3F-DBD9-41C9-840D-3C840C92EAC0}" Language="SFX" Hash="{C72FCFFA-1B11-B61A-FC68-1118272ABADC}">
+			<ObjectPath>Spitter_Flight</ObjectPath>
+			<ShortName>Spitter_Flight</ShortName>
+			<Path>Event/Spitter_Flight.bnk</Path>
+			<Events>
+				<Event Id="936187765" Name="Spitter_Flight" ObjectPath="\Events\Default Work Unit\Characters\Enemies\Spitters\Spitter_Flight" GUID="{9A7FDD3F-DBD9-41C9-840D-3C840C92EAC0}" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{FE843F50-A1C9-C2E9-97ED-3F5D0FA2C039}</FileHash>
+</SoundBanksInfo>
